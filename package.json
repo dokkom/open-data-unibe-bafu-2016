@@ -1,0 +1,16 @@
+{
+  "name": "open_data",
+  "version": "1.0.0",
+  "description": "Visualization of research groups",
+  "main": "index.js",
+  "dependencies": {
+    "swiss-styleguide": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1"
+   , "webserver": "python -m SimpleHTTPServer 8000" 
+  },
+  "author": "Dominic Kohler & Flurin Truebner",
+  "license": "ISC"
+}
