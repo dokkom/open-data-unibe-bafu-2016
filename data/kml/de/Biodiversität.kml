@@ -1,0 +1,608 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.51704694753,47.4288002029</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Reckenholzstrasse 191</td></tr><tr><td></td><td>8046 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Agrarlandschaft und Biodiversität (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/agrarlandschaft-biodiversitaet/index.html?lang=de> http://www.agroscope.admin.ch/agrarlandschaft-biodiversitaet/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Molekulare Ökologie (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/molekulare-oekologie/index.html?lang=de> http://www.agroscope.admin.ch/molekulare-oekologie/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Pflanzen-Boden-Interaktion (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05712/05779/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05712/05779/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Sorten und Anbautechnik (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/grandes-cultures/07964/index.html?lang=de> http://www.agroscope.admin.ch/grandes-cultures/07964/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.93159271584,46.1602417314</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>A Ramél 18</td></tr><tr><td></td><td>6593 Cadenazzo</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">FG Pflanzenschutz südlich der Alpen (Cadenazzo)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/phytopathologie/05969/index.html?lang=de> http://www.agroscope.admin.ch/phytopathologie/05969/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.23200554544,46.3992860875</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route de Duillier 50</td></tr><tr><td></td><td>1260 Nyon</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ackerpflanzenzüchtung  (Changins)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/amelioration-des-plantes/07977/index.html?lang=de> http://www.agroscope.admin.ch/amelioration-des-plantes/07977/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Entomologie Acker- und Weinbau (Changins)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05706/05729/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05706/05729/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Mykologie und Biotechnologie (Changins)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05706/05727/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05706/05727/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.67730983842,47.2221053647</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schloss 1
+Postfach</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Züchtung und Genressourcen Obst (Wädenswil)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05707/05749/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05707/05749/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nachhaltigkeit und Ökosysteme: Graslandökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nachhaltigkeit-und-oekosysteme/graslandoekologie.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nachhaltigkeit-und-oekosysteme/graslandoekologie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Nutztiersysteme und Pferdehaltung: Tiergenetik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nutztiersysteme-und-pferdehaltung/tiergenetik.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nutztiersysteme-und-pferdehaltung/tiergenetik.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.32503788045,47.3730965547</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Center for Agricultural Bioscience International (CABI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue des Grillons 1</td></tr><tr><td></td><td>2800 Delémont</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Agricultural pest research</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cabi.org/about-cabi/cabi-centres/switzerland> http://www.cabi.org/about-cabi/cabi-centres/switzerland/</a></p></td></tr> 
+<tr><td class="cell-leftr">Controlling invasive species</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cabi.org/projects/controlling-invasive-species> http://www.cabi.org/projects/controlling-invasive-species/</a></p></td></tr> 
+<tr><td class="cell-leftr">Risk Analysis and Invasion Ecology Section</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cabi.org/about-cabi/cabi-centres/switzerland> http://www.cabi.org/about-cabi/cabi-centres/switzerland/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.93168690897,46.9928408749</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Centre de coordination pour la protection des amphibiens et des reptiles de Suisse (KARCH)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Passage Max-Meuron 6</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Centre de coordination pour la protection des amphibiens et des reptiles de Suisse (KARCH)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.karch.ch/karch/page-27387_de.html> http://www.karch.ch/karch/page-27387_de.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.14651679051,46.2271710113</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Centre du réseau suisse de floristique (CRSF)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>1, chemin de l'Impératrice</td></tr><tr><td></td><td>1292 Chambésy-Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Centre du réseau suisse de floristique (CRSF)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=www.crsf.ch> www.crsf.ch</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.931739493,46.9928411073</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Centre suisse de cartographie de la faune (CSCF)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Passage Maximilien de Meuron 6</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Centre suisse de cartographie de la faune (CSCF)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cscf.ch/cscf/welcome_to_www_cscf_ch> http://www.cscf.ch/cscf/welcome_to_www_cscf_ch</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.1468046209,46.2276061457</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Conservatoire et Jardin botaniques, Ville de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l'Impéatrice 1</td></tr><tr><td></td><td>1292 Chambésy-Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Unité d'anatomie et de micromorphologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ville-ge.ch/cjb/activites_labo_anatomie.php> http://www.ville-ge.ch/cjb/activites_labo_anatomie.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Unité de cultures in vitro</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ville-ge.ch/cjb/conservation_activites_exsitu_labo.php> http://www.ville-ge.ch/cjb/conservation_activites_exsitu_labo.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Unité de microscopie et de chromatographie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ville-ge.ch/cjb/activites_labo_microscopie.php> http://www.ville-ge.ch/cjb/activites_labo_microscopie.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Unité de phylogénie et génétique moléculaire</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ville-ge.ch/cjb/activites_labo_biomol.php> http://www.ville-ge.ch/cjb/activites_labo_biomol.php</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Environmental Change and Adaptation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/eco/main-focus/environmental-change-and-adaptation> http://www.eawag.ch/en/department/eco/main-focus/environmental-change-and-adaptation/</a></p></td></tr> 
+<tr><td class="cell-leftr">Fliessgewässer</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/eco/main-focus/stream-ecology> http://www.eawag.ch/en/department/eco/main-focus/stream-ecology/</a></p></td></tr> 
+<tr><td class="cell-leftr">Grundwasser</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/tom-gonser/show> http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/tom-gonser/show/</a></p></td></tr> 
+<tr><td class="cell-leftr">Host-Parasite Coevolutionary Dynamics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/eco/main-focus/host-parasite-coevolutionary-dynamics> http://www.eawag.ch/en/department/eco/main-focus/host-parasite-coevolutionary-dynamics/</a></p></td></tr> 
+<tr><td class="cell-leftr">Räumliche Dynamiken</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/eco/schwerpunkte/raeumliche-dynamiken> http://www.eawag.ch/de/abteilung/eco/schwerpunkte/raeumliche-dynamiken/</a></p></td></tr> 
+<tr><td class="cell-leftr">Zooplankton Ecology and Evolution</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/eco/main-focus/zooplankton-ecology-and-evolution> http://www.eawag.ch/en/department/eco/main-focus/zooplankton-ecology-and-evolution/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Evolutionary Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/eco/main-focus/evolutionary-ecology> http://www.eawag.ch/en/department/eco/main-focus/evolutionary-ecology/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.33292405124,47.0025921905</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seestrasse 79</td></tr><tr><td></td><td>6047 Kastanienbaum</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Eco-evolutionary dynamics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/eco/main-focus/eco-evolutionary-dynamics> http://www.eawag.ch/en/department/eco/main-focus/eco-evolutionary-dynamics/</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionäre Biodiversitätsforschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/abteilung/fishec/schwerpunkte/biodiversitaet> http://www.eawag.ch/abteilung/fishec/schwerpunkte/biodiversitaet/</a></p></td></tr> 
+<tr><td class="cell-leftr">Fischereiberatung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/fishec/schwerpunkte/fischereiberatung> http://www.eawag.ch/de/abteilung/fishec/schwerpunkte/fischereiberatung/</a></p></td></tr> 
+<tr><td class="cell-leftr">Flussfisch Oekologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/fishec/main-focus/river-fish-ecology> http://www.eawag.ch/en/department/fishec/main-focus/river-fish-ecology/</a></p></td></tr> 
+<tr><td class="cell-leftr">Restorationsökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/armin-peter/show> http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/armin-peter/show/</a></p></td></tr> 
+<tr><td class="cell-leftr">Theoretische evolutionäre Ökosystemforschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/fishec/schwerpunkte/oekosystemforschung> http://www.eawag.ch/de/abteilung/fishec/schwerpunkte/oekosystemforschung/</a></p></td></tr> 
+<tr><td class="cell-leftr">Mikrobiologische Ökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/abteilung/surf/schwerpunkte/mikrobiologie> http://www.eawag.ch/abteilung/surf/schwerpunkte/mikrobiologie/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56795654844,46.5208326499</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 2</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratoire d'Écohydrologie (ECHO)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://echo.epfl.ch/page-12889-fr.html> http://echo.epfl.ch/page-12889-fr.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire des Systèmes Écologiques (ECOS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ecos.epfl.ch/page-7569-fr.html> http://ecos.epfl.ch/page-7569-fr.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56780915923,46.5210834135</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>GR B2 417</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Pâturages boisés et zones humides (WSL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/oekosystem/feuchtgebiete/index_FR> http://www.wsl.ch/fe/oekosystem/feuchtgebiete/index_FR</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.5650460134,46.5210982006</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 17</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratory of Nanoscale Biology LBEN</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lben.epfl.ch> http://lben.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54900924832,47.3774774872</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätstrasse 2</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Pflanzenbiochemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pbc.ethz.ch> http://www.pbc.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Pflanzenbiotechnologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pb.ethz.ch> http://www.pb.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">RNA Biology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ias.ethz.ch/de/das-institut.html> http://www.ias.ethz.ch/de/das-institut.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kulturpflanzenwissenschaften</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.kp.ethz.ch> http://www.kp.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Pflanzenpathologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.path.ethz.ch> http://www.path.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.60228141345,47.5665068264</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Mattenstrasse 26</td></tr><tr><td></td><td>4058 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Synthetic Biology Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.bsse.ethz.ch/synbio> https://www.bsse.ethz.ch/synbio</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55014232331,47.3778353952</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schmelzbergstr. 9</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Biokommunikation &amp; Entomologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ias.ethz.ch/de/personen/person-detail.html?persid=197699> http://www.ias.ethz.ch/de/personen/person-detail.html?persid=197699</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842347492,47.3792371753</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätstrasse 16</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Molekulare mikrobielle Ökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ibp.ethz.ch/research/molecularmicrobialecology> http://www.ibp.ethz.ch/research/molecularmicrobialecology</a></p></td></tr> 
+<tr><td class="cell-leftr">Umweltmikrobiologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.envmicro.ethz.ch> http://www.envmicro.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionsbiologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.evo.ethz.ch> http://www.evo.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Experimentelle Ökologie (Group Schmid-Hempel)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eco.ethz.ch> http://www.eco.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Group Martin</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eco.ethz.ch> http://www.eco.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Ökologische Pflanzengenetik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.peg.ethz.ch> http://www.peg.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Pathogen-Ökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pe.ethz.ch> http://www.pe.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Pflanzenökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.plantecology.ethz.ch> http://www.plantecology.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Terrestrische Systemökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.sysecol.ethz.ch> http://www.sysecol.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Theoretische Biologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.tb.ethz.ch> http://www.tb.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Ökosystem Management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ecology.ethz.ch> http://www.ecology.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Aquatische Ökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ae.ethz.ch> http://www.ae.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionare Ökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.evec.ethz.ch/research/index> http://www.evec.ethz.ch/research/index</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13555254913,46.2097263466</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Prairie 4</td></tr><tr><td></td><td>1202 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ecologie et ingénierie des systèmes aquatiques</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://hepia.hesge.ch/fr/rad-et-prestations/institut-intne/equipes/ecol-ing-systemes-aquatiques> http://hepia.hesge.ch/fr/rad-et-prestations/institut-intne/equipes/ecol-ing-systemes-aquatiques/</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecologie végétale appliquée à l'aménagement et la conservation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://hepia.hesge.ch/fr/rad-et-prestations/institut-intne/equipes/ecologie-vegetale-appliquee> http://hepia.hesge.ch/fr/rad-et-prestations/institut-intne/equipes/ecologie-vegetale-appliquee/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13555190371,46.2097533295</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Prairie 4</td></tr><tr><td></td><td>1202 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Plantes et pathogènes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://hepia.hesge.ch/fr/rad-et-prestations/institut-intne/equipes/plantes-et-pathogenes> http://hepia.hesge.ch/fr/rad-et-prestations/institut-intne/equipes/plantes-et-pathogenes/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.02568301042,47.5154445262</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de recherche de l'agriculture biologique (FIBL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Ackerstrasse 113</td></tr><tr><td></td><td>5070 Frick</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Pflanzenzüchtung und Sortenprüfung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/pflanzenzuechtung-sortenpruefung.html> http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/pflanzenzuechtung-sortenpruefung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Aquakultur</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/tierforschung/aquakultur.html> http://www.fibl.org/de/schweiz/forschung/tierforschung/aquakultur.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.11294951337,46.0326365481</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Jardin botanique alpin Flore-Alpe</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Centre alpin de Phytogéographie</td></tr><tr><td></td><td>1938 Champex</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Centre alpin de phytogéographie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.flore-alpe.ch/fr/Centre-Alpien> http://www.flore-alpe.ch/fr/Centre-Alpien/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.4806077625,46.935313813</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">KORA Koordinierte Forschungsprojekte zur Erhaltung und zum Management der Raubtiere in der Schweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Thunstrasse 31</td></tr><tr><td></td><td>3074 Muri</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">KORA Koordinierte Forschungsprojekte zur Erhaltung und zum Management der Raubtiere in der Schweiz</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.kora.ch/index.html> http://www.kora.ch/index.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.6338742724,46.5234953902</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Musée cantonal de zoologie, Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Place de la Riponne 6</td></tr><tr><td></td><td>1014 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ephéméroptères</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.musees.vd.ch/musee-de-zoologie/recherche-scientifique/ephemeropteres> http://www.musees.vd.ch/musee-de-zoologie/recherche-scientifique/ephemeropteres/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.96030197371,46.0049548135</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Museo cantonale di storia naturale, Lugano</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Viale Cattaneo 4</td></tr><tr><td></td><td>6900 Lugano</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Botanica</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/botanica/presentazione> http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/botanica/presentazione/</a></p></td></tr> 
+<tr><td class="cell-leftr">Micologia e Lichenologia</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/micologia/presentazione> http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/micologia/presentazione/</a></p></td></tr> 
+<tr><td class="cell-leftr">Zoologia degli invertebrati</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/zoologia-invertebrati/presentazione> http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/zoologia-invertebrati/presentazione/</a></p></td></tr> 
+<tr><td class="cell-leftr">Zoologia dei vertebrati</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/zoologia-vertebrati/presentazione> http://www4.ti.ch/dt/da/mcsn/temi/mcsn/il-museo/zoologia-vertebrati/presentazione/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.93074056649,46.992818698</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Muséum d'histoire naturelle, Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue des Terreaux 14</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Mollusques</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.museum-neuchatel.ch/index.php/approfondir/les-departements/mollusques> http://www.museum-neuchatel.ch/index.php/approfondir/les-departements/mollusques</a></p></td></tr> 
+<tr><td class="cell-leftr">Vertébrés</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.museum-neuchatel.ch/index.php/approfondir/les-departements/vertebres> http://www.museum-neuchatel.ch/index.php/approfondir/les-departements/vertebres</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.590283425,47.5576373342</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Naturhistorisches Museum Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Augustinergasse 2</td></tr><tr><td></td><td>4001 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Biowissenschaften</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.nmb.bs.ch/forschung/forschung-biowissenschaften.htm> http://www.nmb.bs.ch/forschung/forschung-biowissenschaften.htm</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.44948577476,46.9419954385</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Naturhistorisches Museum der Bürgergemeinde Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Bernastrasse 15</td></tr><tr><td></td><td>3005 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Invertebrates</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.nmbe.ch/research/wirbellose-tiere/forschung> http://www.nmbe.ch/research/wirbellose-tiere/forschung</a></p></td></tr> 
+<tr><td class="cell-leftr">Vertebrates</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.nmbe.ch/research/vertebrates> http://www.nmbe.ch/research/vertebrates</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.3010356489,47.0516555606</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Natur-Museum Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Kasernenplatz 6</td></tr><tr><td></td><td>6003 Luzern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Botanik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.naturmuseum.ch/home.php?sL=for&sA=bota> http://www.naturmuseum.ch/home.php?sL=for&sA=bota</a></p></td></tr> 
+<tr><td class="cell-leftr">Entomologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.naturmuseum.ch/home.php?sL=for&sA=ento> http://www.naturmuseum.ch/home.php?sL=for&sA=ento</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.19220011464,47.1282073587</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Schweizerische Vogelwarte</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schweizerische Vogelwarte</td></tr><tr><td></td><td>6204 Sempach</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Schweizerische Vogelwarte</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.vogelwarte.ch/home.php?lang=d&cap=projekte> http://www.vogelwarte.ch/home.php?lang=d&cap=projekte</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58316293654,47.5579342267</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Vesalgasse 1</td></tr><tr><td></td><td>4051 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Mensch-Gesellschaft-Umwelt</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.programm-mgu.ch> http://www.programm-mgu.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58518263717,47.5628332744</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>St. Johanns-Vorstadt 10</td></tr><tr><td></td><td>4056 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Naturschutzbiologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.conservation.unibas.ch/index.php?lang=de> http://www.conservation.unibas.ch/index.php?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Biogeographie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.biogeography.unibas.ch> http://www.biogeography.unibas.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58117215423,47.5587281395</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schönbeinstrasse 6</td></tr><tr><td></td><td>4056 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Pflanzenökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://botanik.unibas.ch/forschungsgruppen-der-botanik/pflanzenoekologie/home> https://botanik.unibas.ch/forschungsgruppen-der-botanik/pflanzenoekologie/home/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58415193648,47.5600645048</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Hebelstrasse 1</td></tr><tr><td></td><td>4056 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Pflanzenphysiologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://botanik.unibas.ch/forschungsgruppen-der-botanik/pflanzenphysiologie/home> https://botanik.unibas.ch/forschungsgruppen-der-botanik/pflanzenphysiologie/home/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.39765362108,46.9671122055</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Wohlenstrasse 50a</td></tr><tr><td></td><td>3032 Hinterkappelen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Behavioural Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://behav.zoology.unibe.ch/index.php?p=esh_main> http://behav.zoology.unibe.ch/index.php?p=esh_main</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.42843034221,46.9519262054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Baltzerstrasse 6</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Community Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ecol.iee.unibe.ch/content> http://ecol.iee.unibe.ch/content/</a></p></td></tr> 
+<tr><td class="cell-leftr">Conservation Biology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cb.iee.unibe.ch/content/research/by_research_field> http://cb.iee.unibe.ch/content/research/by_research_field/</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Ecology Lab</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://evolution.iee.unibe.ch/content> http://evolution.iee.unibe.ch/content/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.44525809842,46.9535276138</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Altenbergrain 21</td></tr><tr><td></td><td>3013 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Biodiversity and Ecosystem Services</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ips.unibe.ch/research/biodiversity/index_eng.html> http://www.ips.unibe.ch/research/biodiversity/index_eng.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Biotic interactions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ips.unibe.ch/content/interactions/index_eng.html> http://www.ips.unibe.ch/content/interactions/index_eng.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Grassland Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.botany.unibe.ch/associated/grass/index.php> http://www.botany.unibe.ch/associated/grass/index.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Molecular Plant Physiology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.botany.unibe.ch/plantphys/index.php> http://www.botany.unibe.ch/plantphys/index.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Paleoecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.botany.unibe.ch/paleo/index.php> http://www.botany.unibe.ch/paleo/index.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Plant Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.botany.unibe.ch/planteco/index.php> http://www.botany.unibe.ch/planteco/index.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Plant Genetics &amp; Development</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.botany.unibe.ch/deve/index.php> http://www.botany.unibe.ch/deve/index.php</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Biodiversity and Species Interaction Networks</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/biodiversityandnetworks.html> http://www.ieu.uzh.ch/en/research/ecology/biodiversityandnetworks.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Biology of Species Interactions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/species.html> http://www.ieu.uzh.ch/en/research/ecology/species.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Communication and Cognition in Social Mammals</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/behaviour/cognition.html> http://www.ieu.uzh.ch/research/behaviour/cognition.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Community Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/communityecology.html> http://www.ieu.uzh.ch/en/research/ecology/communityecology.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Comparative communication and cognition</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/behaviour/commcoq.html> http://www.ieu.uzh.ch/en/research/behaviour/commcoq.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Conservation Biology of Amphibians</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/ecology/amphibians.html> http://www.ieu.uzh.ch/research/ecology/amphibians.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Cooperation and Social Structuring in Mammals</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/behaviour/social.html> http://www.ieu.uzh.ch/research/behaviour/social.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Design principles of gene regulatory networks</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/gene-regul-network.html> http://www.ieu.uzh.ch/en/research/evolbiol/gene-regul-network.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecological and Developmental Genetics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/ecogen.html> http://www.ieu.uzh.ch/en/research/ecology/ecogen.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolution and Genetics of Life, Love and Death</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/evolution.html> http://www.ieu.uzh.ch/en/research/evolbiol/evolution.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolution and Genetics of Social Behaviour</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/behaviour/behaviour.html> http://www.ieu.uzh.ch/research/behaviour/behaviour.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary and Ecological Genomics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html> http://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/ecoevo.html> http://www.ieu.uzh.ch/en/research/ecology/ecoevo.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Ecology and Genetics of Natural Populations</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/evolbiol/natural.html> http://www.ieu.uzh.ch/research/evolbiol/natural.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Ecology of Environmental Change</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/ecology/change.html> http://www.ieu.uzh.ch/research/ecology/change.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Ecology, Ecophysiology and Immunogenetics of Vertebrates</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/immuno.html> http://www.ieu.uzh.ch/en/research/evolbiol/immuno.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Genetics and Eco-Evolutionary Modelling</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/ecoevo.html> http://www.ieu.uzh.ch/en/research/evolbiol/ecoevo.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary genomics and ecology of macro and micro evolutionary transitions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/genomics.html> http://www.ieu.uzh.ch/en/research/evolbiol/genomics.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Invertebrate Behavioral and Evolutionary Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/evolbiol/invertebrates.html> http://www.ieu.uzh.ch/research/evolbiol/invertebrates.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Islands and Interactions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/island.html> http://www.ieu.uzh.ch/en/research/ecology/island.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Molecular Evolution and Evolutionary Systems Biology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/systbiol.html> http://www.ieu.uzh.ch/en/research/evolbiol/systbiol.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Plant interactions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/facilitation.html> http://www.ieu.uzh.ch/en/research/ecology/facilitation.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Predictive Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/extinction.html> http://www.ieu.uzh.ch/en/research/ecology/extinction.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Soil Biodiversity and Ecosystem Functioning</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/ecology/soilbiodiversity.html> http://www.ieu.uzh.ch/en/research/ecology/soilbiodiversity.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Soil Ecology and Global Change</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/ecology/soil.html> http://www.ieu.uzh.ch/research/ecology/soil.html</a></p></td></tr> 
+<tr><td class="cell-leftr">The evolution of genetic control</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/en/research/evolbiol/evo-gen-contr.html> http://www.ieu.uzh.ch/en/research/evolbiol/evo-gen-contr.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54823665278,47.374714392</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rämistrasse 71</td></tr><tr><td></td><td>8006 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Population Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.popecol.org> http://www.popecol.org/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55124122212,47.3226119019</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seestrasse 187</td></tr><tr><td></td><td>8802 Kilchberg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Limnology and Limnological Station</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.botinst.uzh.ch/research/limnology/pernthaler.html> http://www.botinst.uzh.ch/research/limnology/pernthaler.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55961224246,47.3577475147</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zollikerstrasse 107</td></tr><tr><td></td><td>8008 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Gruppe Conti</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/ElenaConti.html> http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/ElenaConti.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Gruppe Endress</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/PeterEndress.html> http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/PeterEndress.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Gruppe Linder</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/PeterLinder/linderlab.html> http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/PeterLinder/linderlab.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Gruppe Schiestl</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/FlorianSchiestl.html> http://www.systbot.uzh.ch/Personen/ProfessorenundDozenten/FlorianSchiestl.html</a></p></td></tr> 
+<tr><td class="cell-leftr">National Inventory of Swiss Bryophytes (NISM)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.nism.uzh.ch/index.php> http://www.nism.uzh.ch/index.php</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15740198953,46.7938298683</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin du Musée 10</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Community ecology group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/biology/research/bersier> http://www.unifr.ch/biology/research/bersier/</a></p></td></tr> 
+<tr><td class="cell-leftr">Conservation biology and Biogeography group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/biology/research/kozlowski> http://www.unifr.ch/biology/research/kozlowski</a></p></td></tr> 
+<tr><td class="cell-leftr">Molecular ecology &amp;  evolutionary genetics group - The Lexer lab</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/biology/research/lexer> http://www.unifr.ch/biology/research/lexer</a></p></td></tr> 
+<tr><td class="cell-leftr">Multi-species interactions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/biology/research/bacher> http://www.unifr.ch/biology/research/bacher/</a></p></td></tr> 
+<tr><td class="cell-leftr">Plant population biology group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/science/de/recherche/groupes/biologie> http://www.unifr.ch/science/de/recherche/groupes/biologie</a></p></td></tr> 
+<tr><td class="cell-leftr">The population genetics group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unifr.ch/science/de/recherche/groupes/biologie> https://www.unifr.ch/science/de/recherche/groupes/biologie</a></p></td></tr> 
+<tr><td class="cell-leftr">Mauch</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/plantbiology/eng/Home/research/mauch-group> http://www.unifr.ch/plantbiology/eng/Home/research/mauch-group</a></p></td></tr> 
+<tr><td class="cell-leftr">Métraux</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/plantbiology/eng/Home/research/metraux> http://www.unifr.ch/plantbiology/eng/Home/research/metraux</a></p></td></tr> 
+<tr><td class="cell-leftr">Reinhardt</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/plantbiology/eng/Home/research/reinhardt> http://www.unifr.ch/plantbiology/eng/Home/research/reinhardt</a></p></td></tr> 
+<tr><td class="cell-leftr">Müller</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/zoology/eng/home/research-groups/mueller> http://www.unifr.ch/zoology/eng/home/research-groups/mueller</a></p></td></tr> 
+<tr><td class="cell-leftr">Puoti</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/zoology/eng/home/research-groups/puoti> http://www.unifr.ch/zoology/eng/home/research-groups/puoti</a></p></td></tr> 
+<tr><td class="cell-leftr">Sprecher</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/zoology/eng/home/research-groups/sprecher> http://www.unifr.ch/zoology/eng/home/research-groups/sprecher</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15772088086,46.7929580922</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin du Musée 6</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Physical Geography - Conservation Biogeography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/geoscience/geographie/en/staff/alumni/dr.-g.-kozlowski> http://www.unifr.ch/geoscience/geographie/en/staff/alumni/dr.-g.-kozlowski</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.17033690781,46.2741878255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route de Suisse 10</td></tr><tr><td></td><td>1290 Versoix</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ecologie microbienne</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/forel/Ecologie-microbienne.html> http://www.unige.ch/forel/Ecologie-microbienne.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Systématique Végétale et Biodiversité</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/sciences/biologie/biveg/collaborateurs/cjb.html> http://www.unige.ch/sciences/biologie/biveg/collaborateurs/cjb.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.15894270205,46.1887972443</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>18 chemin des Clochettes</td></tr><tr><td></td><td>1206 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratoire d'Ecologie et de Biologie Aquatique (LEBA)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://leba.unige.ch/leba/accueil.html> http://leba.unige.ch/leba/accueil.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13276778184,46.1977734548</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Quai Ernest-Ansermet 30</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ecologie microbienne et biosécurité</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/sciences/biologie/biveg/microbio/themes/MauroTonolla.html> http://www.unige.ch/sciences/biologie/biveg/microbio/themes/MauroTonolla.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Genetique Moléculaire des Chloroplastes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://biveg.unige.ch/fr/labs> http://biveg.unige.ch/fr/labs/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire de Lopez-Molina</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/sciences/biologie/bioveg/lopezmolina/Site/Welcome.html> http://www.unige.ch/sciences/biologie/bioveg/lopezmolina/Site/Welcome.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire de Systématique végétale et Biodiversité</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/sciences/biologie/biveg/labs.html> http://www.unige.ch/sciences/biologie/biveg/labs.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Artificial &amp; Natural evolution (LANE)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.lanevol.org/LANE/Introduction.html> http://www.lanevol.org/LANE/Introduction.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Molecular evolution and ecology of protists</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://genev.unige.ch/en/users/Jan-Pawlowski/unit> http://genev.unige.ch/en/users/Jan-Pawlowski/unit</a></p></td></tr> 
+<tr><td class="cell-leftr">Molecular phylogeny and evolution in vertebrates</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://genev.unige.ch/fr/users/Juan-Montoya/unit> http://genev.unige.ch/fr/users/Juan-Montoya/unit</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58543543246,46.5223415696</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Biophore</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Goloubinoff lab - Protein Biochemistry and Plant Stress Biology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dbmv/page8007_en.html> http://www.unil.ch/dbmv/page8007_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Plant Biotechnology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dbmv/page8008_en.html> http://www.unil.ch/dbmv/page8008_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Plant-Insect Interactions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dbmv/page13790_en.html> http://www.unil.ch/dbmv/page13790_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Prof. Edward (Ted) Farmer</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dbmv/page8006_en.html> http://www.unil.ch/dbmv/page8006_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Structure and function of the cuticle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dbmv/page12234_en.html> http://www.unil.ch/dbmv/page12234_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">The Geldner lab</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dbmv/page49637_en.html> http://www.unil.ch/dbmv/page49637_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">The Molecular Basis of Plant Growth &amp; Development</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dbmv/page21142_en.html> http://www.unil.ch/dbmv/page21142_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Behavioural Ecology of Social Insects (Grüter Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unil.ch/dee/home/menuinst/people/associated-researcher--priva/prof-christoph-gruter.html> https://www.unil.ch/dee/home/menuinst/people/associated-researcher--priva/prof-christoph-gruter.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Comparative Phylogeography of Biotic Interactions (Alvarez Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/en/home/menuinst/research/alvarez-group.html> http://www.unil.ch/dee/en/home/menuinst/research/alvarez-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Current and Past Mechanisms of Evolution (Fitze Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/home/menuinst/research/fitze-group.html> http://www.unil.ch/dee/home/menuinst/research/fitze-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecology and Evolution of Dispersal (Perrin Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page6761_en.html> http://www.unil.ch/dee/page6761_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecology and Evolution of Symbiotic Organisms (Sanders Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-ian-sanders.html> http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-ian-sanders.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolution &amp; Mechanisms of Aging and Life History (Flatt Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/home/menuinst/research/flatt-group.html> http://www.unil.ch/dee/home/menuinst/research/flatt-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolution and Maintenance of Genetic Colour Polymorphism (Roulin Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/en/home/menuinst/research/roulin-group.html> http://www.unil.ch/dee/en/home/menuinst/research/roulin-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolution of Host-parasite Interactions (Christe Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page6999_en.html> http://www.unil.ch/dee/page6999_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolution of reproductive and genetic systems (Schwander Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/home/menuinst/research/schwander-group.html> http://www.unil.ch/dee/home/menuinst/research/schwander-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Bioinformatics (Robinson-Rechavi Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/en/home/menuinst/research/robinson-rechavi-group.html> http://www.unil.ch/dee/en/home/menuinst/research/robinson-rechavi-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Biology and Ecology
+Evolutionary Conservation Biology (Wedekind Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page21537_en.html> http://www.unil.ch/dee/page21537_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Evolutionary Genetics and Ecology of Social Life (Keller Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page6763_en.html> http://www.unil.ch/dee/page6763_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Experimental evolutionary biology (Kawecki Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page47688_en.html> http://www.unil.ch/dee/page47688_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Forensic Entomology (Groupe Cherix)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page7757_en.html> http://www.unil.ch/dee/page7757_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Genetics and Conservation Biology (Group Fumagalli)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page7001_en.html> http://www.unil.ch/dee/page7001_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Hybridization and adaptive introgression (Arrigo Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unil.ch/dee/en/home/menuinst/research/arrigo-group.html> https://www.unil.ch/dee/en/home/menuinst/research/arrigo-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Molecular Phylogenetics and Speciation (Salamin Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unil.ch/phylo> http://www2.unil.ch/phylo/</a></p></td></tr> 
+<tr><td class="cell-leftr">Phenotypic Plasticity and Ageing (Bize Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unil.ch/dee/home/menuinst/people/associated-researcher--priva/dr-pierre-bize.html> https://www.unil.ch/dee/home/menuinst/people/associated-researcher--priva/dr-pierre-bize.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Population Genetics &amp; Genomics (Goudet Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/home/menuinst/research/goudet-group.html> http://www.unil.ch/dee/home/menuinst/research/goudet-group.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Social Evolution (Chapuisat Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page7642_en.html> http://www.unil.ch/dee/page7642_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Spatial Ecology (Guisan Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/page6771_en.html> http://www.unil.ch/dee/page6771_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Environmental and Evolutionary Microbiology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dmf/page14867_en.html> http://www.unil.ch/dmf/page14867_en.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.57400838928,46.5197183312</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Génopode</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Christian Fankhauser</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/cig/home/menuinst/research/research-groups/prof-fankhauser.html> http://www.unil.ch/cig/home/menuinst/research/research-groups/prof-fankhauser.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.57959099056,46.5227023883</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Université de Lausanne</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Computational Evolutionary Biology and Genomics (Dessimoz Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lab.dessimoz.org> http://lab.dessimoz.org/</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecology and Evolution of Plant Sexual Systems</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/home/menuinst/research/pannell-group.html> http://www.unil.ch/dee/home/menuinst/research/pannell-group.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.94931745139,46.9999427682</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue Emile-Argand 11</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Biogenèse des vacuoles</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/cms/site/lbmc/lang/fr/vacuoles> http://www2.unine.ch/cms/site/lbmc/lang/fr/vacuoles</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire de microbiologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/lamun/page-6235_en.html> http://www2.unine.ch/lamun/page-6235_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire de physiologie végétale</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/physiologievegetale/page-7331_en.html> http://www2.unine.ch/physiologievegetale/page-7331_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire d'éco-éthologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/ethol/page-5880_en.html> http://www2.unine.ch/ethol/page-5880_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire pour la recherche fondamentale et appliquée en écologie chimique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/farce/farce> http://www2.unine.ch/farce/farce</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Evolutionary Botany (EVO-BOT) </td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/evobot/page-11440.html> http://www2.unine.ch/evobot/page-11440.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Soil Biology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/biolsol/page-6096_en.html> http://www2.unine.ch/biolsol/page-6096_en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Physiologie animale</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/Jahia/site/labpar/op/edit/pid/15586> http://www2.unine.ch/Jahia/site/labpar/op/edit/pid/15586</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.84722271712,46.8120135934</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Flüelastrasse 11</td></tr><tr><td></td><td>7260 Davos Dorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Gebirgsökosysteme - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/oekologie/gebirgsoekosysteme/index_DE> http://www.slf.ch/ueber/organisation/oekologie/gebirgsoekosysteme/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.02496020079,46.1847191412</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Belsoggiorno 22</td></tr><tr><td></td><td>6500 Bellinzona</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Insubrische Ökosysteme -WSL Bellinzona</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/oekosystem/insubrisch/index_DE> http://www.wsl.ch/fe/oekosystem/insubrisch/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Biodiversität (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/biodiversitaet/biodiversitaet_DE> http://www.wsl.ch/fe/biodiversitaet/biodiversitaet_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Biodiversity and Conservation Biology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/forschung/forschungsunits/biodiversitaet/index_EN?-C=&> http://www.wsl.ch/forschung/forschungsunits/biodiversitaet/index_EN?-C=&</a></p></td></tr> 
+<tr><td class="cell-leftr">Lebensraumdynamik (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/biodiversitaet/lebensraumdynamik_DE> http://www.wsl.ch/fe/biodiversitaet/lebensraumdynamik_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Naturschutzbiologie (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/biodiversitaet/naturschutzbiologie_DE> http://www.wsl.ch/fe/biodiversitaet/naturschutzbiologie_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Dynamische Makroökologie (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/landschaftsdynamik/dynamic_macroecology/index_DE> http://www.wsl.ch/fe/landschaftsdynamik/dynamic_macroecology/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">SwissLichens (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=www.swisslichens.ch> www.swisslichens.ch</a></p></td></tr> 
+<tr><td class="cell-leftr">Tier-Pflanzen Interaktionen (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/oekosystem/herbis/index_EN> http://www.wsl.ch/fe/oekosystem/herbis/index_EN</a></p></td></tr> 
+<tr><td class="cell-leftr">Swissfungi (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/dienstleistungen/inventare/pilze_flechten/swissfungi/index_DE> http://www.wsl.ch/dienstleistungen/inventare/pilze_flechten/swissfungi/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Fachstelle Pflanzenverwendung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/pflanzenverwendung> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/pflanzenverwendung/</a></p></td></tr> 
+<tr><td class="cell-leftr">Forschungsgruppe Wildtiermanagement</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/wildtiermanagement> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/wildtiermanagement/</a></p></td></tr> 
+<tr><td class="cell-leftr">Stadtökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/stadtoekologie> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/stadtoekologie/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

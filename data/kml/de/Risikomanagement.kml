@@ -1,0 +1,168 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.62153797498,47.0574196076</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Pestalozzistrasse 20</td></tr><tr><td></td><td>3400 Burgdorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Risks and Extremes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.forschung.ti.bfh.ch/en/institutes/institute_for_risks_and_extremes.html> http://www.forschung.ti.bfh.ch/en/institutes/institute_for_risks_and_extremes.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.64404834911,46.6904801723</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Bundesamt für Bevölkerungsschutz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Labor Spiez</td></tr><tr><td></td><td>3700 Spiez</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Labor Spiez</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.labor-spiez.ch/index.htm> http://www.labor-spiez.ch/index.htm</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56480478074,46.5215101702</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 16</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Groupe d'Etude de la Spatialité des Risques (ESpRI)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://espri.epfl.ch> http://espri.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.57024878423,46.5201124964</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 6</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Chemical and Physical Safety (GSCP)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://gscp.epfl.ch> http://gscp.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50970205703,47.4063089784</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Vladimir-Prelog-Weg 1-5/10</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Sicherheits- und Umwelttechnick</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.sust-chem.ethz.ch> http://www.sust-chem.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55376073257,47.3735547968</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürichbergstrasse 18</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Risk and Insurance Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.riec.ethz.ch> http://www.riec.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54615989605,47.3780085648</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Leonhardstrasse 21</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Reliability and Risk Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.rre.ethz.ch> http://www.rre.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54769611059,47.3780118197</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sonneggstrasse 3</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Sicherheitsanaltytik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.lsa.ethz.ch> http://www.lsa.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.34069383873,47.4126877727</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lerchenfeldstrasse 5</td></tr><tr><td></td><td>9014 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Environmental Risk Assessment and Management Group (ERAM)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s506/eram> https://www.empa.ch/web/s506/eram</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Institut für Anlagen- und Sicherheitstechnik SITEC</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.sitec.hsr.ch/Home.4325.0.html> http://www.sitec.hsr.ch/Home.4325.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.53011695382,47.3757685178</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Foundation for research on information technologies in society</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zeughausstrasse 43</td></tr><tr><td></td><td>8004 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Health Risk Assessment</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.itis.ethz.ch/emf-research/health-risk-evaluations> http://www.itis.ethz.ch/emf-research/health-risk-evaluations/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15900186357,46.7934559845</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Boulevard de Pérolles 80</td></tr><tr><td></td><td>1705 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Institut des Systèmes Intelligents et Sécurisés (iSIS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heia-fr.ch/fr/partenaire/rad/institut_iSIS/presentation> http://www.heia-fr.ch/fr/partenaire/rad/institut_iSIS/presentation</a></p></td></tr> 
+<tr><td class="cell-leftr">Devaux Baudraz</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://itec.heia-fr.ch/DE/presentation/Pages/kernkompetenzen.aspx> http://itec.heia-fr.ch/DE/presentation/Pages/kernkompetenzen.aspx</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.63968311569,46.5246428725</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut romand de santé du travail</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue du Bugnon 19</td></tr><tr><td></td><td>1005 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Particules et santé</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.i-s-t.ch/recherche/projet-de-recherche/?tx_displaycontroller[table]=tx_istproject_project&tx_displaycontroller[showUid]=7&cHash=2b17001489fa94fbd94a66b9d58cd06a> http://www.i-s-t.ch/recherche/projet-de-recherche/?tx_displaycontroller[table]=tx_istproject_project&tx_displaycontroller[showUid]=7&cHash=2b17001489fa94fbd94a66b9d58cd06a</a></p></td></tr> 
+<tr><td class="cell-leftr">Risques biologiques</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.i-s-t.ch/linstitut/collaborateurs/detail/?tx_displaycontroller[table]=tx_istdirectory_member&tx_displaycontroller[showUid]=12&cHash=715cc352f5f4926ce5e081c82385479e> http://www.i-s-t.ch/linstitut/collaborateurs/detail/?tx_displaycontroller[table]=tx_istdirectory_member&tx_displaycontroller[showUid]=12&cHash=715cc352f5f4926ce5e081c82385479e</a></p></td></tr> 
+<tr><td class="cell-leftr">Science de l’exposition</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.i-s-t.ch/linstitut/collaborateurs/detail/?tx_displaycontroller[table]=tx_istdirectory_member&tx_displaycontroller[showUid]=29&cHash=4fecc9c49930b2a0c2e55d7179593cdc> http://www.i-s-t.ch/linstitut/collaborateurs/detail/?tx_displaycontroller[table]=tx_istdirectory_member&tx_displaycontroller[showUid]=29&cHash=4fecc9c49930b2a0c2e55d7179593cdc</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5234 Villigen, Brugg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Risk and Human Reliability</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/rhr> http://www.psi.ch/rhr/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.96136411959,46.0264074646</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Trevano, Blocco C</td></tr><tr><td></td><td>6952 Canobbio</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Idrogeologia and limnologia</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/ist/settori-attivita/idrogeologia.html> http://www.supsi.ch/ist/settori-attivita/idrogeologia.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.71682505951,47.4947508042</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Stiftung Risiko-Dialog</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technoparkstrasse 2</td></tr><tr><td></td><td>8406 Winterthur</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Informations- und Kommunikationstechnologien</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.risiko-dialog.ch/themen/informationstechnologien> http://www.risiko-dialog.ch/themen/informationstechnologien</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13652071121,46.1990403218</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue des Maraîchers 13</td></tr><tr><td></td><td>1205 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Petrology and volcanology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cms.unige.ch/sciences/terre/research/Groups/igneous_petrology/igneous_petrology.php> http://cms.unige.ch/sciences/terre/research/Groups/igneous_petrology/igneous_petrology.php</a></p></td></tr> 
+<tr><td class="cell-leftr">Physical volcanology and geological risk</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cms.unige.ch/sciences/terre/research/Groups/physical_volcanology/physical%20volcanology.php> http://cms.unige.ch/sciences/terre/research/Groups/physical_volcanology/physical%20volcanology.php</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.15971590686,46.201113538</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">World agency of planetary monitoring and earthquake risk reduction</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de Jargonnant 2</td></tr><tr><td></td><td>1207 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">World Agency of Planetary monitoring and earthquake risk reduction </td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wapmerr.org/default.asp> http://www.wapmerr.org/default.asp</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.84722271712,46.8120135934</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Flüelastrasse 11</td></tr><tr><td></td><td>7260 Davos Dorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Lawinendynamik und Risikomanagement - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/risikomanagement/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/risikomanagement/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Warn- und Informationssysteme - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/warn_informationssysteme/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/warn_informationssysteme/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.71682505951,47.4947508042</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technoparkstrasse 2</td></tr><tr><td></td><td>8406 Winterthur</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Risikomanagement und Technology Assessment</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/engineering/institute-zentren/ine/risikomanagement-und-technology-assessment> https://www.zhaw.ch/de/engineering/institute-zentren/ine/risikomanagement-und-technology-assessment/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

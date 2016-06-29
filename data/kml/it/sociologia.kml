@@ -1,0 +1,287 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.44869888252,46.9480762719</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Akademien der Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Marktgasse 50</td></tr><tr><td></td><td>3011 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Science et Cité, Wissenschaft und Gesellschaft im Dialog</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.science-et-cite.ch/de> http://www.science-et-cite.ch/de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Internationale Landwirtschaft: Gesellschaft und Politik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/internationale-landwirtschaft/gesellschaft-und-politik.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/internationale-landwirtschaft/gesellschaft-und-politik.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56480478074,46.5215101702</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 16</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Laboratoire de construction et conservation (LCC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lcc.epfl.ch> http://lcc.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire de Sociologie Urbaine (LASUR)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lasur.epfl.ch> http://lasur.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56480478074,46.5215101702</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 16</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Laboratoire de construction et conservation (LCC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lcc.epfl.ch> http://lcc.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54576368401,47.37997331</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Clausiusstrasse 50</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Professur für Soziologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.socio.ethz.ch> http://www.socio.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842202743,47.3798038853</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätstrasse 22</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Klimaschutz und -anpassung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hes.ethz.ch/index_DE> http://www.hes.ethz.ch/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Natur- und Umweltsozialwissenschaften</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.tdlab.usys.ethz.ch/people/person-detail.html?persid=79110> http://www.tdlab.usys.ethz.ch/people/person-detail.html?persid=79110</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842202743,47.3798038853</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätsstrasse 22</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Klimaschutz und -anpassung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hes.ethz.ch/index_DE> http://www.hes.ethz.ch/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.5977135761,47.5409709203</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Fachhochschule Nordwestschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Thiersteinerallee 57</td></tr><tr><td></td><td>4053 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Sozialplanung und Stadtentwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/sozialearbeit/iss> http://www.fhnw.ch/sozialearbeit/iss</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.37148390965,47.4254924338</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rosenbergstrasse 59</td></tr><tr><td></td><td>9001 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Kompetenzzentrum Soziale Räume</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhsg.ch/fhs.nsf/de/kompetenzzentren-soziale-raeume> http://www.fhsg.ch/fhs.nsf/de/kompetenzzentren-soziale-raeume</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.30575499279,47.0138564264</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Hochschule Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Werftestrasse 1</td></tr><tr><td></td><td>6002 Luzern</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Stadt- und Regionalentwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.hslu.ch/de-ch/soziale-arbeit/institute/soziokulturelle-entwicklung/stadt-und-regionalentwicklung> https://www.hslu.ch/de-ch/soziale-arbeit/institute/soziokulturelle-entwicklung/stadt-und-regionalentwicklung/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.02568301042,47.5154445262</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Institut de recherche de l'agriculture biologique (FIBL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Ackerstrasse 113</td></tr><tr><td></td><td>5070 Frick</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Agrarsoziologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/soziooekonomie/agrarsoziologie.html> http://www.fibl.org/de/schweiz/forschung/soziooekonomie/agrarsoziologie.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.14362313502,46.220750188</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Institut de hautes études internationales et du développement (IHEID)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin Eugène-Rigot 2</td></tr><tr><td></td><td>1202 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">International History</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://graduateinstitute.ch/home/study/academicdepartments/international-history/Research.html> http://graduateinstitute.ch/home/study/academicdepartments/international-history/Research.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58458757821,47.5590386719</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Petersgraben 27</td></tr><tr><td></td><td>4051 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Lehrstuhl Mäder</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://soziologie.unibas.ch/seminar/personen/profil/portrait/person/maeder-1> http://soziologie.unibas.ch/seminar/personen/profil/portrait/person/maeder-1/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58050209229,47.561552992</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Klingelbergstrasse 27</td></tr><tr><td></td><td>4056 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Humangeographie / Stadt- und Regionalforschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.humgeo.unibas.ch> http://www.humgeo.unibas.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43026905833,46.9542471152</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggassstrasse 49</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Abteilung für Wirtschafts-, Sozial- und Umweltgeschichte (WSU)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hist.unibe.ch/forschung/forschungsprojekte> http://www.hist.unibe.ch/forschung/forschungsprojekte/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.42994075972,46.9534914943</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lerchenweg 36</td></tr><tr><td></td><td>3000 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Sozialanthropologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.anthro.unibe.ch/index_ger.html> http://www.anthro.unibe.ch/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.4352611562,46.952646226</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Hallerstrasse 12</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Kulturgeographie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geography.unibe.ch/content/forschungsgruppen/kulturgeographie/index_ger.html> http://www.geography.unibe.ch/content/forschungsgruppen/kulturgeographie/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.30232790838,47.050989171</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Frohburgstrasse 3</td></tr><tr><td></td><td>6002 Luzern</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Geschichte mit Schwerpunkt Neuzeit</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unilu.ch/fakultaeten/ksf/institute/historisches-seminar/mitarbeitende/jon-mathieu> https://www.unilu.ch/fakultaeten/ksf/institute/historisches-seminar/mitarbeitende/jon-mathieu/</a></p></td></tr> 
+<tr><td class="cell-leftr">Umweltgeschichte in welthistorischer Perspektive, Geschichte von Naturkatastrophen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unilu.ch/fakultaeten/ksf/institute/ethnologisches-seminar/mitarbeitende/juerg-helbling> https://www.unilu.ch/fakultaeten/ksf/institute/ethnologisches-seminar/mitarbeitende/juerg-helbling/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.30232790838,47.050989171</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Frohburgstrasse 3</td></tr><tr><td></td><td>6002 Luzern</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Geschichte mit Schwerpunkt Neuzeit</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unilu.ch/fakultaeten/ksf/institute/historisches-seminar/mitarbeitende/jon-mathieu> https://www.unilu.ch/fakultaeten/ksf/institute/historisches-seminar/mitarbeitende/jon-mathieu/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Human Geography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/human-geography> http://www.geo.uzh.ch/en/units/human-geography</a></p></td></tr> 
+<tr><td class="cell-leftr">Environmental History</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/ecology/history.html> http://www.ieu.uzh.ch/research/ecology/history.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Human Geography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/human-geography> http://www.geo.uzh.ch/en/units/human-geography</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15772088086,46.7929580922</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin du Musée 6</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Human Geography - Political Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/geoscience/geographie/en/research/human-geography> http://www.unifr.ch/geoscience/geographie/en/research/human-geography</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15926125048,46.7939513696</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Bd de Pérolles 90</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Anthropologie sociale</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/anthropos/de/pres/team/giordano> http://www.unifr.ch/anthropos/de/pres/team/giordano</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13666495315,46.1973415914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>66 Bd Carl-Vogt</td></tr><tr><td></td><td>1205 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">GRAAL</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/ecohum/enseignement.html> http://www.unige.ch/ecohum/enseignement.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58543543246,46.5223415696</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Biophore</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Social evolution: cooperation &amp; conflict from genes to culture (Lehmann Group)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/dee/home/menuinst/research/lehmann-group.html> http://www.unil.ch/dee/home/menuinst/research/lehmann-group.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Développement, sociétés, environnements</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igul/page16226.html> http://www.unil.ch/igul/page16226.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Humanités environnementales</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/fr/home/menuinst/la-recherche/humanites-environnementales.html> http://www.unil.ch/igd/fr/home/menuinst/la-recherche/humanites-environnementales.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire d'Anthropologie Culturelle et Sociale</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/lacs> http://www.unil.ch/lacs</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Développement, sociétés, environnements</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igul/page16226.html> http://www.unil.ch/igul/page16226.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire d'Anthropologie Culturelle et Sociale</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/lacs> http://www.unil.ch/lacs</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Développement, sociétés, environnements</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igul/page16226.html> http://www.unil.ch/igul/page16226.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Humanités environnementales</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/fr/home/menuinst/la-recherche/humanites-environnementales.html> http://www.unil.ch/igd/fr/home/menuinst/la-recherche/humanites-environnementales.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.93472657091,46.9939427017</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Faubourg de l'Hôpital 27</td></tr><tr><td></td><td>2000  Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Sociologie (Hainard)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/socio/page-36595.html> http://www2.unine.ch/socio/page-36595.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Sociologie (Nedelcu)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/cms/lang/fr/pid/17164> http://www2.unine.ch/cms/lang/fr/pid/17164</a></p></td></tr> 
+<tr><td class="cell-leftr">Sociologie (Suter)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/christian.suter/accueil> http://www2.unine.ch/christian.suter/accueil</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.93472657091,46.9939427017</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Faubourg de l'Hôpital 27</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Sociologie (Hainard)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/socio/page-36595.html> http://www2.unine.ch/socio/page-36595.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Sociologie (Suter)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/christian.suter/accueil> http://www2.unine.ch/christian.suter/accueil</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.93472657091,46.9939427017</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Faubourg de l'Hôpital 27</td></tr><tr><td></td><td>2000  Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Sociologie (Hainard)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/socio/page-36595.html> http://www2.unine.ch/socio/page-36595.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Sociologie (Nedelcu)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/cms/lang/fr/pid/17164> http://www2.unine.ch/cms/lang/fr/pid/17164</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Sozialwissenschaftliche Landschaftsforschung (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/wisoz/gruppen/sla/index_DE> http://www.wsl.ch/fe/wisoz/gruppen/sla/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Fachstelle Grün und Gesundheit / Green Care</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/gruen-und-gesundheit> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/gruen-und-gesundheit/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.68766180848,47.219267848</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Istituzione</td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Einsiedlerstrasse 31</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Nome del gruppo </td> </tr><tr><td class="cell-leftr">Regionalentwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/landschaft-und-tourismus/regionalentwicklung> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/landschaft-und-tourismus/regionalentwicklung/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

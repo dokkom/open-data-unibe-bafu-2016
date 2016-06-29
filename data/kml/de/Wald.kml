@@ -1,0 +1,63 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Internationale Waldwissenschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/internationale-waldwissenschaften.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/internationale-waldwissenschaften.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Wald und Gesellschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/wald-und-gesellschaft.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/wald-und-gesellschaft.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842347492,47.3792371753</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätstrasse 16</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Forstschutz und Dendrologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.forestpathology.ethz.ch> http://www.forestpathology.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Waldmanagement und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fordev.ethz.ch> http://www.fordev.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Waldmanagement-Waldbau</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wm.ethz.ch> http://www.wm.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Waldökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fe.ethz.ch> http://www.fe.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.50142490032,47.5335802263</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut für angewandte Pflanzenbiologie</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sandgrubenstrasse 25/27</td></tr><tr><td></td><td>4124 Schönbuch</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Institut für angewandte Pflanzenbiologie, IAP</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iap.ch> http://www.iap.ch</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58117215423,47.5587281395</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schönbeinstrasse 6</td></tr><tr><td></td><td>4056 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nachhaltige Landnutzung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://botanik.unibas.ch/en/botanical-research-groups/sustainable-land-use> https://botanik.unibas.ch/en/botanical-research-groups/sustainable-land-use/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.44525809842,46.9535276138</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Altenbergrain 21</td></tr><tr><td></td><td>3013 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Vegetation Ecology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.botany.unibe.ch/vegeco/index.php> http://www.botany.unibe.ch/vegeco/index.php</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Mykorrhiza (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/walddynamik/diversitaet/index_DE> http://www.wsl.ch/fe/walddynamik/diversitaet/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Ökophysiologie (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/walddynamik/ecophysiology/index_DE> http://www.wsl.ch/fe/walddynamik/ecophysiology/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Störungsökologie (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/walddynamik/stoerungsoekologie/index_DE> http://www.wsl.ch/fe/walddynamik/stoerungsoekologie/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Waldentomologie (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/walddynamik/waldinsekten/index_DE> http://www.wsl.ch/fe/walddynamik/waldinsekten/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Waldschutz Schweiz (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/walddynamik/waldschutz/index_DE> http://www.wsl.ch/fe/walddynamik/waldschutz/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Waldwachstum und Klima (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/walddynamik/waldwachstum/index_DE> http://www.wsl.ch/fe/walddynamik/waldwachstum/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Bestandesdynamik und Waldbau (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/waldressourcen/waldwirtschaft/index_DE> http://www.wsl.ch/fe/waldressourcen/waldwirtschaft/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Forstliche Produktionssysteme (Management Waldnutzung) (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/waldressourcen/produktionssysteme/index_DE> http://www.wsl.ch/fe/waldressourcen/produktionssysteme/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Wissenschatlicher Dienst LFI (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/waldressourcen/WDLFI/index_DE> http://www.wsl.ch/fe/waldressourcen/WDLFI/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

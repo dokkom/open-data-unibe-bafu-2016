@@ -1,0 +1,37 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Excreta and Wastewater Management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/sandec/main-focus/excreta-and-wastewater-management> http://www.eawag.ch/en/department/sandec/main-focus/excreta-and-wastewater-management/</a></p></td></tr> 
+<tr><td class="cell-leftr">Municipal Solid Waste Management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/sandec/main-focus/municipal-solid-waste-management> http://www.eawag.ch/en/department/sandec/main-focus/municipal-solid-waste-management/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Excreta and Wastewater Management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/sandec/main-focus/excreta-and-wastewater-management> http://www.eawag.ch/en/department/sandec/main-focus/excreta-and-wastewater-management/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5234 Villigen, Brugg</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">EPFL-PSI Joint Professorship on Solid Waste Treatment</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://enac.epfl.ch/page-17180-en.html> http://enac.epfl.ch/page-17180-en.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geochemical Modelling Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/les/organisational-structure> http://www.psi.ch/les/organisational-structure</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5234 Villigen, Brugg</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">EPFL-PSI Joint Professorship on Solid Waste Treatment</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://enac.epfl.ch/page-17180-en.html> http://enac.epfl.ch/page-17180-en.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

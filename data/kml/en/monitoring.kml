@@ -1,0 +1,650 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.1468046209,46.2276061457</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Conservatoire et Jardin botaniques, Ville de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l’Impératrice 1</td></tr><tr><td></td><td>1292 Chambésy-Genève</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Unité de SIG-Télédétection</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ville-ge.ch/cjb/page_patrim_vert_wyler.php> http://www.ville-ge.ch/cjb/page_patrim_vert_wyler.php</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.33292405124,47.0025921905</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seestrasse 79</td></tr><tr><td></td><td>6047 Kastanienbaum</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Sensoren und Analytik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/abteilung/surf/schwerpunkte/sensoren> http://www.eawag.ch/abteilung/surf/schwerpunkte/sensoren/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Überflutungsrisiko</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/joao-paulo-leitao/show> http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/joao-paulo-leitao/show/</a></p></td></tr> 
+<tr><td class="cell-leftr">Urbanhydrologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/joerg-rieckermann/show> http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/joerg-rieckermann/show/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Überflutungsrisiko</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/joao-paulo-leitao/show> http://www.eawag.ch/de/ueberuns/portraet/organisation/mitarbeitende/profile/joao-paulo-leitao/show/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.5668389302,46.5206351663</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Transportation Center (TRACE)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://transport.epfl.ch> http://transport.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Urban Transport Systems Laboratory (LUTS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://luts.epfl.ch> http://luts.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Informatique et Mécanique Appliquées à la Construction (IMAC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://imac.epfl.ch> http://imac.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Structural Maintenance and Safety Laboratory (MCS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://mcs.epfl.ch> http://mcs.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodetic Engineering Laboratory Topo</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://topo.epfl.ch> http://topo.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Geographic Information Systems LASIG</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lasig.epfl.ch> http://lasig.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Urban Transport Systems Laboratory (LUTS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://luts.epfl.ch> http://luts.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Structural Maintenance and Safety Laboratory (MCS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://mcs.epfl.ch> http://mcs.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodetic Engineering Laboratory Topo</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://topo.epfl.ch> http://topo.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Geographic Information Systems LASIG</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lasig.epfl.ch> http://lasig.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Urban Transport Systems Laboratory (LUTS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://luts.epfl.ch> http://luts.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Informatique et Mécanique Appliquées à la Construction (IMAC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://imac.epfl.ch> http://imac.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodetic Engineering Laboratory Topo</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://topo.epfl.ch> http://topo.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Geographic Information Systems LASIG</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lasig.epfl.ch> http://lasig.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56795654844,46.5208326499</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 2</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Distributed Intelligent Systems and Algorithms Laboratory (DISAL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://disal.epfl.ch> http://disal.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Environmental Remote Sensing Laboratory  LTE</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lte.epfl.ch> http://lte.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56795654844,46.5208326499</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 2</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Distributed Intelligent Systems and Algorithms Laboratory (DISAL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://disal.epfl.ch> http://disal.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Urban Transport Systems Laboratory (LUTS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://luts.epfl.ch> http://luts.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Informatique et Mécanique Appliquées à la Construction (IMAC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://imac.epfl.ch> http://imac.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Structural Maintenance and Safety Laboratory (MCS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://mcs.epfl.ch> http://mcs.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Geographic Information Systems LASIG</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lasig.epfl.ch> http://lasig.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Urban Transport Systems Laboratory (LUTS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://luts.epfl.ch> http://luts.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Informatique et Mécanique Appliquées à la Construction (IMAC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://imac.epfl.ch> http://imac.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Structural Maintenance and Safety Laboratory (MCS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://mcs.epfl.ch> http://mcs.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodetic Engineering Laboratory Topo</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://topo.epfl.ch> http://topo.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.94603873574,46.9975989542</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Maladière 71b</td></tr><tr><td></td><td>2002 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Optics &amp; Photonics Technology Laboratory (OPT)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://opt.epfl.ch/page80171.html> http://opt.epfl.ch/page80171.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50702128585,47.4087354573</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Robert-Gnehm-Weg 15</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geodäsie und Geodynamik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ggl.baug.ethz.ch> http://www.ggl.baug.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50725559726,47.4085264061</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Wolfgang-Pauli-Strasse 15</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geodätische Messtechnik und Ingenieurgeodäsie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geometh.ethz.ch> http://www.geometh.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50672010264,47.4082525086</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Stefano-Franscini-Platz 5</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geoinformations-Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.gis.ethz.ch> http://www.gis.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Photogrammetrie und Fernerkundung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.prs.igp.ethz.ch> http://www.prs.igp.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Institut für Kartographie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.karto.ethz.ch/index> http://www.karto.ethz.ch/index</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50672010264,47.4082525086</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Stefano-Franscini-Platz 5</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geoinformations-Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.gis.ethz.ch> http://www.gis.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Institut für Kartographie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.karto.ethz.ch/index> http://www.karto.ethz.ch/index</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50672010264,47.4082525086</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Stefano-Franscini-Platz 5</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geoinformations-Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.gis.ethz.ch> http://www.gis.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Photogrammetrie und Fernerkundung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.prs.igp.ethz.ch> http://www.prs.igp.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54768530235,47.3781288608</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sonneggstrasse 5</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Explorations- und Umweltgeophysik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eeg.ethz.ch> http://www.eeg.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.463911605,46.9244254849</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössisches Institut für Metrologie (METAS)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lindenweg 50</td></tr><tr><td></td><td>3003 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Ionisierende Strahlung und Radioaktivität</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.metas.ch/metas/de/home/fabe/ionisierende-strahlung.html> http://www.metas.ch/metas/de/home/fabe/ionisierende-strahlung.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.63852888874,47.5339555055</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Nordwestschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Gründenstrasse 40</td></tr><tr><td></td><td>4132 Muttenz</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Vermessung und Geoinformation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/habg/ivgi> http://www.fhnw.ch/habg/ivgi/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Institut für Kommunikationssysteme ICOM</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://icom.hsr.ch/Leistungen.4124.0.html> http://icom.hsr.ch/Leistungen.4124.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">GISpunkt</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://gis.hsr.ch/index.php> http://gis.hsr.ch/index.php</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Institut für Kommunikationssysteme ICOM</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://icom.hsr.ch/Leistungen.4124.0.html> http://icom.hsr.ch/Leistungen.4124.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.64650368227,46.7810132655</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue du Nord 3</td></tr><tr><td></td><td>1400 Yverdon-les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">IGT - LPTherm : Laboratory of the Thermal Processes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.lptherm.ch> http://www.lptherm.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.65989693939,46.7794231153</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>rte de cheseaux 1</td></tr><tr><td></td><td>1400 Yverdon-Les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Géolocalisation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://g2c.heig-vd.ch/pr%C3%A9sentation/groupes-de-comp%C3%A9tences/g%C3%A9omatique> http://g2c.heig-vd.ch/pr%C3%A9sentation/groupes-de-comp%C3%A9tences/g%C3%A9omatique</a></p></td></tr> 
+<tr><td class="cell-leftr">Imagerie géomatique et photogrammétrie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://g2c.heig-vd.ch/pr%C3%A9sentation/partenaires/imagerie-g%C3%A9omatique> http://g2c.heig-vd.ch/pr%C3%A9sentation/partenaires/imagerie-g%C3%A9omatique</a></p></td></tr> 
+<tr><td class="cell-leftr">Systèmes d’informations géographiques (SIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://g2c.heig-vd.ch/pr%C3%A9sentation/laboratoires/g%C3%A9oinformatique-et-sig> http://g2c.heig-vd.ch/pr%C3%A9sentation/laboratoires/g%C3%A9oinformatique-et-sig</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.65989693939,46.7794231153</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>rte de cheseaux 1</td></tr><tr><td></td><td>1400 Yverdon-Les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Géolocalisation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://g2c.heig-vd.ch/pr%C3%A9sentation/groupes-de-comp%C3%A9tences/g%C3%A9omatique> http://g2c.heig-vd.ch/pr%C3%A9sentation/groupes-de-comp%C3%A9tences/g%C3%A9omatique</a></p></td></tr> 
+<tr><td class="cell-leftr">Systèmes d’informations géographiques (SIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://g2c.heig-vd.ch/pr%C3%A9sentation/laboratoires/g%C3%A9oinformatique-et-sig> http://g2c.heig-vd.ch/pr%C3%A9sentation/laboratoires/g%C3%A9oinformatique-et-sig</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.65989693939,46.7794231153</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>rte de cheseaux 1</td></tr><tr><td></td><td>1400 Yverdon-Les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Géolocalisation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://g2c.heig-vd.ch/pr%C3%A9sentation/groupes-de-comp%C3%A9tences/g%C3%A9omatique> http://g2c.heig-vd.ch/pr%C3%A9sentation/groupes-de-comp%C3%A9tences/g%C3%A9omatique</a></p></td></tr> 
+<tr><td class="cell-leftr">Imagerie géomatique et photogrammétrie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://g2c.heig-vd.ch/pr%C3%A9sentation/partenaires/imagerie-g%C3%A9omatique> http://g2c.heig-vd.ch/pr%C3%A9sentation/partenaires/imagerie-g%C3%A9omatique</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.02568301042,47.5154445262</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de recherche de l'agriculture biologique (FIBL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Ackerstrasse 113</td></tr><tr><td></td><td>5070 Frick</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Lebensmittelqualität</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/soziooekonomie/lebensmittelqualitaet.html> http://www.fibl.org/de/schweiz/forschung/soziooekonomie/lebensmittelqualitaet.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.14624634362,46.2232723135</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue de la Paix 7Bis</td></tr><tr><td></td><td>1211 Genève 2</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Beratung (Genève)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.14775526368,46.223595442</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Av. de la Paix 7</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Prognose (Genève)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.78805803029,46.1723584755</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via ai Monti 146</td></tr><tr><td></td><td>6605 Locarno Monti</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Prognosen und Beratung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Radar, Satelliten und Nowcasting</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Krähbühlstrasse 58</td></tr><tr><td></td><td>8044 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Klimamonitoring</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Klimaprognosen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Sondierung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Betriebszentrum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bodendaten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Krähbühlstrasse 58</td></tr><tr><td></td><td>8044 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Klimamonitoring</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Sondierung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Betriebszentrum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bodendaten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56097779642,47.4522190467</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Flughafen Zürich AG, Postfach</td></tr><tr><td></td><td>8060 Zürich-Flughafen</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Prognose (Zürich)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.78805803029,46.1723584755</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via ai Monti 146</td></tr><tr><td></td><td>6605 Locarno Monti</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Prognosen und Beratung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.9410222702,46.8139442833</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l'Aérologie</td></tr><tr><td></td><td>1530 Payerne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Atmosphärendaten, Ozon</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l'Aérologie 1</td></tr><tr><td></td><td>1530 Payerne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Klimamonitoring</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Klimaprognosen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Sondierung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Betriebszentrum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bodendaten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l'Aérologie 1</td></tr><tr><td></td><td>1530 Payerne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Klimamonitoring</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Klimaprognosen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Betriebszentrum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bodendaten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l'Aérologie 1</td></tr><tr><td></td><td>1530 Payerne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Klimamonitoring</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Klimaprognosen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Sondierung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bodendaten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Krähbühlstrasse 58</td></tr><tr><td></td><td>8044 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Klimamonitoring</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Klimaprognosen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärendaten, Sondierung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Betriebszentrum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.8444609236,46.8132777427</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Schweizerisches Forschungsinstitut für Hochgebirgsklima und Medizin Davos (SFI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Dorfstrass 33</td></tr><tr><td></td><td>7260 Davos-Dorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">IRC - Infrared Calibration Center</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pmodwrc.ch/pmod.php?topic=irc> http://www.pmodwrc.ch/pmod.php?topic=irc</a></p></td></tr> 
+<tr><td class="cell-leftr">Sektion Solare Radiometrie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pmodwrc.ch/pmod.php?topic=world_radiation_center> http://www.pmodwrc.ch/pmod.php?topic=world_radiation_center</a></p></td></tr> 
+<tr><td class="cell-leftr">Sektion World Optical Depth Reseach and Calibration Center</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pmodwrc.ch/worcc> http://www.pmodwrc.ch/worcc/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.8444609236,46.8132777427</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Schweizerisches Forschungsinstitut für Hochgebirgsklima und Medizin Davos (SFI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Dorfstrass 33</td></tr><tr><td></td><td>7260 Davos-Dorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">IRC - Infrared Calibration Center</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pmodwrc.ch/pmod.php?topic=irc> http://www.pmodwrc.ch/pmod.php?topic=irc</a></p></td></tr> 
+<tr><td class="cell-leftr">Sektion World Optical Depth Reseach and Calibration Center</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pmodwrc.ch/worcc> http://www.pmodwrc.ch/worcc/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.8444609236,46.8132777427</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Schweizerisches Forschungsinstitut für Hochgebirgsklima und Medizin Davos (SFI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Dorfstrass 33</td></tr><tr><td></td><td>7260 Davos-Dorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">IRC - Infrared Calibration Center</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pmodwrc.ch/pmod.php?topic=irc> http://www.pmodwrc.ch/pmod.php?topic=irc</a></p></td></tr> 
+<tr><td class="cell-leftr">Sektion Solare Radiometrie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pmodwrc.ch/pmod.php?topic=world_radiation_center> http://www.pmodwrc.ch/pmod.php?topic=world_radiation_center</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.91817010077,46.0253545842</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Galleria 2</td></tr><tr><td></td><td>6928 Manno</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Istituto di sistemi informativi e networking</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/dti/ricerca/istituti-e-laboratorio/isin> http://www.supsi.ch/dti/ricerca/istituti-e-laboratorio/isin</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Technik und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Entwicklungen und Aufträge</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Grundlagen und Permanentnetze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kartografie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geologische Daten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landesgeologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bilddaten und Höhenmodelle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Technik und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Grundlagen und Permanentnetze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kartografie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geologische Daten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landesgeologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bilddaten und Höhenmodelle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Technik und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Entwicklungen und Aufträge</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kartografie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geologische Daten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landesgeologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bilddaten und Höhenmodelle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Technik und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Entwicklungen und Aufträge</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Grundlagen und Permanentnetze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geologische Daten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landesgeologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bilddaten und Höhenmodelle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Technik und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Entwicklungen und Aufträge</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Grundlagen und Permanentnetze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kartografie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landesgeologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bilddaten und Höhenmodelle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Technik und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Entwicklungen und Aufträge</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Grundlagen und Permanentnetze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kartografie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geologische Daten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Bilddaten und Höhenmodelle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tpf.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Technik und Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cadastre/vte.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Entwicklungen und Aufträge</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/ge.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geodätische Grundlagen und Permanentnetze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geodesy/gg.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kartografie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/cartography.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geologische Daten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology/lka.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landesgeologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/geology.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.4352611562,46.952646226</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Hallerstrasse 12</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Fernerkundung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geography.unibe.ch/content/forschungsgruppen/fernerkundung/index_ger.html> http://www.geography.unibe.ch/content/forschungsgruppen/fernerkundung/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geographic Information Geocomputation (Geocomp)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation> http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation</a></p></td></tr> 
+<tr><td class="cell-leftr">Geographic Information Systems (GIS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/giscience-gis> http://www.geo.uzh.ch/en/units/giscience-gis/</a></p></td></tr> 
+<tr><td class="cell-leftr">Remote Sensing Laboratories (RSL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/rsl> http://www.geo.uzh.ch/en/units/rsl/</a></p></td></tr> 
+<tr><td class="cell-leftr">Spatial Ecology and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/ecology/spatial.html> http://www.ieu.uzh.ch/research/ecology/spatial.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geographic Information Geocomputation (Geocomp)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation> http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation</a></p></td></tr> 
+<tr><td class="cell-leftr">Remote Sensing Laboratories (RSL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/rsl> http://www.geo.uzh.ch/en/units/rsl/</a></p></td></tr> 
+<tr><td class="cell-leftr">Spatial Ecology and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/ecology/spatial.html> http://www.ieu.uzh.ch/research/ecology/spatial.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geographic Information Geocomputation (Geocomp)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation> http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation</a></p></td></tr> 
+<tr><td class="cell-leftr">Geographic Information Systems (GIS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/giscience-gis> http://www.geo.uzh.ch/en/units/giscience-gis/</a></p></td></tr> 
+<tr><td class="cell-leftr">Spatial Ecology and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ieu.uzh.ch/research/ecology/spatial.html> http://www.ieu.uzh.ch/research/ecology/spatial.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geographic Information Geocomputation (Geocomp)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation> http://www.geo.uzh.ch/de/lehrstuehle-und-abteilungen/geocomputation</a></p></td></tr> 
+<tr><td class="cell-leftr">Geographic Information Systems (GIS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/giscience-gis> http://www.geo.uzh.ch/en/units/giscience-gis/</a></p></td></tr> 
+<tr><td class="cell-leftr">Remote Sensing Laboratories (RSL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/rsl> http://www.geo.uzh.ch/en/units/rsl/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.1399495072,46.1948872777</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Boulevard du Pont d'Arve 40</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Labo InfoGéo</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://infogeo.unige.ch> http://infogeo.unige.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13993240233,46.1765786537</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>7 rte de Drize</td></tr><tr><td></td><td>1227 Carrouge</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Analyse et modélisation spatiale (enviroSPACE)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/envirospace/index.html> http://www.unige.ch/envirospace/index.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Sciences de l'Information Géographique (ScIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html> http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Earth Surface Dynamics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420</a></p></td></tr> 
+<tr><td class="cell-leftr">Geomatics and Geostatistics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/idyst/page101419.html> http://www.unil.ch/idyst/page101419.html</a></p></td></tr> 
+<tr><td class="cell-leftr">High Mountain Geomorphology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997</a></p></td></tr> 
+<tr><td class="cell-leftr">Predictive Biogeography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Sciences de l'Information Géographique (ScIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html> http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geomatics and Geostatistics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/idyst/page101419.html> http://www.unil.ch/idyst/page101419.html</a></p></td></tr> 
+<tr><td class="cell-leftr">High Mountain Geomorphology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997</a></p></td></tr> 
+<tr><td class="cell-leftr">Predictive Biogeography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Sciences de l'Information Géographique (ScIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html> http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Earth Surface Dynamics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420</a></p></td></tr> 
+<tr><td class="cell-leftr">High Mountain Geomorphology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997</a></p></td></tr> 
+<tr><td class="cell-leftr">Predictive Biogeography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Sciences de l'Information Géographique (ScIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html> http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Earth Surface Dynamics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420</a></p></td></tr> 
+<tr><td class="cell-leftr">Geomatics and Geostatistics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/idyst/page101419.html> http://www.unil.ch/idyst/page101419.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Predictive Biogeography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101827</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Sciences de l'Information Géographique (ScIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html> http://www.unil.ch/igd/home/menuinst/la-recherche/information-geographique.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Earth Surface Dynamics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101420</a></p></td></tr> 
+<tr><td class="cell-leftr">Geomatics and Geostatistics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/idyst/page101419.html> http://www.unil.ch/idyst/page101419.html</a></p></td></tr> 
+<tr><td class="cell-leftr">High Mountain Geomorphology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101997</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">GIS (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/waldressourcen/GIS/index_DE> http://www.wsl.ch/fe/waldressourcen/GIS/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Statistic Lab (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/waldressourcen/statlab/index_EN> http://www.wsl.ch/fe/waldressourcen/statlab/index_EN</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">GIS (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/waldressourcen/GIS/index_DE> http://www.wsl.ch/fe/waldressourcen/GIS/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Fachstelle Geoinformatik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/geoinformatik> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/geoinformatik/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

@@ -1,0 +1,116 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.51704694753,47.4288002029</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Reckenholzstrasse 191</td></tr><tr><td></td><td>8046 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Futterbau und Graslandsysteme (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05712/05777/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05712/05777/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Futterpflanzenzüchtung (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05712/05778/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05712/05778/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Ökologie von Schad- und Nutzorganismen (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05712/05780/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05712/05780/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.23200554544,46.3992860875</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route de Duillier 50</td></tr><tr><td></td><td>1260 Nyon</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">FG Ackerbausysteme und Pflanzenernährung (Changins)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05700/05715/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05700/05715/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">FG Pflanzenzüchtung und genetische Ressourcen (Changins)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05700/07665/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05700/07665/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">FG Sorten und Anbautechnik (Changins)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05700/07667/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05700/07667/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.30370824637,46.2114253828</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route des Vergers 18</td></tr><tr><td></td><td>1964 Conthey</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Beeren und Medizinalpflanzen (Conthey)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05704/05722/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05704/05722/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Gewächshauskulturen (Conthey)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05704/05723/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05704/05723/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Obstkulturen im Alpenraum (Conthey)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05704/05724/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05704/05724/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.67730983842,47.2221053647</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schloss 1
+Postfach</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Molekulare Diagnostik, Genomik und Bioinformatik (Wädenswil)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/07668/07671/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/07668/07671/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Ökotoxikologie (Wädenswil)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/07668/07670/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/07668/07670/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Pflanzenschutzchemie (Wädenswil)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/07668/07669/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/07668/07669/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Extension Gemüsebau (Wädenswil)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05707/05751/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05707/05751/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Extension Obstbau (Wädenswil)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05707/05750/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05707/05750/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Bauen im Bestand und Denkmalpflege</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauen-im-bestand-und-denkmalpflege.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauen-im-bestand-und-denkmalpflege.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Fenster-, Türen- und Fassadentechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/fenster-tueren-und-fassadentechnik.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/fenster-tueren-und-fassadentechnik.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Integrierte Planung und Produktion</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/integrierte-planung-und-produktion.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/integrierte-planung-und-produktion.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Internationale Landwirtschaft: Landwirtschaftliche Produktionssysteme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/internationale-landwirtschaft/landwirtschaftliche-produktionssysteme.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/internationale-landwirtschaft/landwirtschaftliche-produktionssysteme.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Nutztiersysteme und Pferdehaltung: Schweine / Fleischqualität</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nutztiersysteme-und-pferdehaltung/schweine-fleischqualitaet.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nutztiersysteme-und-pferdehaltung/schweine-fleischqualitaet.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Pflanzenproduktionssysteme: Ackerbau und Pflanzenzüchtung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/pflanzenproduktionssysteme/ackerbau-und-pflanzenzuechtung.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/pflanzenproduktionssysteme/ackerbau-und-pflanzenzuechtung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Pflanzenschutz und Agrarökologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/pflanzenproduktionssysteme/pflanzenschutz-und-agraroekologie.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/pflanzenproduktionssysteme/pflanzenschutz-und-agraroekologie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Wertschöpfungskette und Vermarktung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/agraroekonomie/wertschoepfungsketten-und-vermarktung.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/agraroekonomie/wertschoepfungsketten-und-vermarktung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Wiederkäuersysteme, Futterbau und Futterkonservierung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/pflanzenproduktionssysteme/wiederkaeuersystemefutterbau.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/pflanzenproduktionssysteme/wiederkaeuersystemefutterbau.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Forstliche Produktion</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/forstliche-produktion.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/forstliche-produktion.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.32503788045,47.3730965547</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Center for Agricultural Bioscience International (CABI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue des Grillons 1</td></tr><tr><td></td><td>2800 Delémont</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Integrated crop management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cabi.org/about-cabi/cabi-centres/switzerland> http://www.cabi.org/about-cabi/cabi-centres/switzerland/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.38519031167,46.2736527466</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Delinat Institut für Ökologie und Klimafarming</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de l'Ancienne Eglise 9</td></tr><tr><td></td><td>1974 Arbaz</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ithaka Institut für Ökologie und Klimafarming</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ithaka-institut.org> http://www.ithaka-institut.org</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.5101795348,47.408310447</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>John-von-Neumann-Weg 9</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ökologisches Systemdesign</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ifu.ethz.ch/ESD> http://www.ifu.ethz.ch/ESD</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.02568301042,47.5154445262</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de recherche de l'agriculture biologique (FIBL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Ackerstrasse 113</td></tr><tr><td></td><td>5070 Frick</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Pflanzliche Symbiosen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/bodenwissenschaften/pflanzliche-symbiosen.html> http://www.fibl.org/de/schweiz/forschung/bodenwissenschaften/pflanzliche-symbiosen.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Agraröokologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/agraroekologie.html?tx_projectlist_pi1[item]=&tx_projectlist_pi1[state]=search&tx_projectlist_pi1[status]=1&tx_projectlist_pi1[volltext]=&tx_projectlist_pi1[clusterfilter]=&tx_projectlist> http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/agraroekologie.html?tx_projectlist_pi1[item]=&tx_projectlist_pi1[state]=search&tx_projectlist_pi1[status]=1&tx_projectlist_pi1[volltext]=&tx_projectlist_pi1[clusterfilter]=&tx_projectlist</a></p></td></tr> 
+<tr><td class="cell-leftr">Anbautechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/anbautechnik.html> http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/anbautechnik.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Beurteilung von Betriebsmitteln</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/beurteilung-betriebsmittel.html> http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/beurteilung-betriebsmittel.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Funktionelle Agrobiodiversität</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/pb-projekte/funktionelle-biodiversitaet.html> http://www.fibl.org/de/schweiz/forschung/nutzpflanzenwissenschaften/pb-projekte/funktionelle-biodiversitaet.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Tierernährung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/tierforschung/tierernaehrung.html> http://www.fibl.org/de/schweiz/forschung/tierforschung/tierernaehrung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Nachhaltigkeitsbewertung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/themen/nachhaltigkeitsbewertung.html> http://www.fibl.org/de/themen/nachhaltigkeitsbewertung.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Forschungsgruppe Hortikultur</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/biologische-landwirtschaft/hortikultur> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/biologische-landwirtschaft/hortikultur/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

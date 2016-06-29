@@ -1,0 +1,113 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43639130273,46.9427785136</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Akademien der Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schwarztorstrasse 9</td></tr><tr><td></td><td>3007 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Network for Transdisciplinary Research td-net
+
+
+
+td-net</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://transdisciplinarity.ch/td-net/Aktuell.html> http://transdisciplinarity.ch/td-net/Aktuell.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nachhaltigkeit und Ökosysteme: Nachhaltigkeitsbeurteilung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nachhaltigkeit-und-oekosysteme/nachhaltigkeitsbeurteilung.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nachhaltigkeit-und-oekosysteme/nachhaltigkeitsbeurteilung.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55014232331,47.3778353952</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schmelzbergstrasse 9</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Sustainable Food Processing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.sfp.ethz.ch> http://www.sfp.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54415673198,47.3816707922</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Weinbergstrasse 56/58</td></tr><tr><td></td><td>8006 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Sustainability and Technology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.sustec.ethz.ch> http://www.sustec.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54769611059,47.3780118197</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sonneggstrasse 3</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nanowissenschaften für Energietechnologie und Nachhaltigkeit</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.nets.ethz.ch> http://www.nets.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54667248942,47.3771850889</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Tannenstrasse 1</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nachhaltige Agrarökosysteme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.sae.ethz.ch> http://www.sae.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Ecovehicle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s301/ecovehicle?inheritRedirect=true> https://www.empa.ch/web/s301/ecovehicle?inheritRedirect=true</a></p></td></tr> 
+<tr><td class="cell-leftr">Materials for Energy Conversion</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.empa.ch/plugin/template/empa/133/*/---/l=1> http://www.empa.ch/plugin/template/empa/133/*/---/l=1</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.64733905511,46.7811989722</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue des Sports 20</td></tr><tr><td></td><td>1401 Yverdon-les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">IGE - CeDD : Unité Centre Développement Durable</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.management-durable.ch> http://www.management-durable.ch</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58101058452,47.5628924335</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schanzenstrasse 46</td></tr><tr><td></td><td>4051 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nachhaltigkeitsforschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://nachhaltigkeit.philhist.unibas.ch> https://nachhaltigkeit.philhist.unibas.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43528758214,46.9501905373</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schanzeneckstrasse 1</td></tr><tr><td></td><td>3001 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Interfakultäre Koordinationsstelle für Allgemeine Ökologie (IKAÖ)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ikaoe.unibe.ch> http://www.ikaoe.unibe.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54959231316,47.4143609225</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Binzmühlestrasse 14</td></tr><tr><td></td><td>8050 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Informatics and Sustainability</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ifi.uzh.ch/iands> http://www.ifi.uzh.ch/iands/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.72933604403,47.4972925873</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technikumstrasse 9</td></tr><tr><td></td><td>8401 Winterthur</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Erneuerbare Energien</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/engineering/institute-zentren/iefe/erneuerbare-energien> https://www.zhaw.ch/de/engineering/institute-zentren/iefe/erneuerbare-energien/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.71682505951,47.4947508042</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technoparkstrasse 2</td></tr><tr><td></td><td>8406 Winterthur</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nachhaltige Energiesysteme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/engineering/institute-zentren/ine/nachhaltige-energiesysteme> https://www.zhaw.ch/de/engineering/institute-zentren/ine/nachhaltige-energiesysteme/</a></p></td></tr> 
+<tr><td class="cell-leftr">Nachhaltige Transportsysteme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/engineering/institute-zentren/ine/nachhaltige-transportsysteme> https://www.zhaw.ch/de/engineering/institute-zentren/ine/nachhaltige-transportsysteme/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

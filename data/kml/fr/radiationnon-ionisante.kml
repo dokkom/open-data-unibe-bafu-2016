@@ -1,0 +1,43 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56471220344,46.5191704568</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 11</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Laboratory of Electromagnetics and Acoustics (LEMA)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lema.epfl.ch> http://lema.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55288890315,47.3774581282</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Gloriastrasse 35</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Bio Electromagnetics Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://iis.ee.ethz.ch/research/bioemc.en.html> https://iis.ee.ethz.ch/research/bioemc.en.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.463911605,46.9244254849</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössisches Institut für Metrologie (METAS)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lindenweg 50</td></tr><tr><td></td><td>3003 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Elektromagnetische Verträglichkeit (EMV)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.metas.ch/metas/de/home/fabe/elektromagnetische-vertraeglichkeit.html> http://www.metas.ch/metas/de/home/fabe/elektromagnetische-vertraeglichkeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.91817010077,46.0253545842</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Galleria 2</td></tr><tr><td></td><td>6928 Manno</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Istituto di sistemi e elettronica applicata</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/dti/ricerca/istituti-e-laboratorio/isea> http://www.supsi.ch/dti/ricerca/istituti-e-laboratorio/isea</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.60197528825,47.5663453711</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Mattenstrasse 28</td></tr><tr><td></td><td>4058 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Molecular Genetics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://biomedizin.unibas.ch/research/research-group-details/home/researchgroup/molecular-genetics> http://biomedizin.unibas.ch/research/research-group-details/home/researchgroup/molecular-genetics/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

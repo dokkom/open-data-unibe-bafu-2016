@@ -1,0 +1,169 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Chaire de Droit (CDT-ENAC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cdt.epfl.ch> http://cdt.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.5777483615,46.5262959049</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de hautes études en administration publique (IDHEAP)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Mouline 18</td></tr><tr><td></td><td>1022 Chavannes-près-Renens</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Chaire Politiques locales &amp; Evaluation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/idheap/home/menuinst/unitescompetences/politiques-locales-et-evaluation-des-politiques-publiques.html> http://www.unil.ch/idheap/home/menuinst/unitescompetences/politiques-locales-et-evaluation-des-politiques-publiques.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.95824654673,46.0109026313</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Università della Svizzera italiana</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Lambertenghi 10a</td></tr><tr><td></td><td>6904 Lugano</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">IDUSI Istituto di Diritto</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.idusi.eco.usi.ch/index.htm> http://www.idusi.eco.usi.ch/index.htm</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.5964647783,47.5453436084</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Peter Merian-Weg 8</td></tr><tr><td></td><td>4002 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Öffentliches Recht - Umweltrecht</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ius.unibas.ch/nc/lehre/dozierende/oeffentliches-recht/eigene-seiten/person/thurnherr_daniela/seite/2182> http://ius.unibas.ch/nc/lehre/dozierende/oeffentliches-recht/eigene-seiten/person/thurnherr_daniela/seite/2182/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43528758214,46.9501905373</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schanzeneckstrasse 1</td></tr><tr><td></td><td>3001 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Kompetenzzentrum für Public management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.kpm.unibe.ch> http://www.kpm.unibe.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Tschannen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.oefre.unibe.ch/ueber_uns/personen/prof_dr_tschannen_pierre> http://www.oefre.unibe.ch/ueber_uns/personen/prof_dr_tschannen_pierre</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.4350509779,46.952574258</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Hallerstrasse 6</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Europa- und Wirtschaftsvölkerrecht</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iew.unibe.ch/forschung/projekte/schweizerischer_nationalfonds/index_ger.html> http://www.iew.unibe.ch/forschung/projekte/schweizerischer_nationalfonds/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43528758214,46.9501905373</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schanzeneckstrasse 1</td></tr><tr><td></td><td>3001 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Kompetenzzentrum für Public management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.kpm.unibe.ch> http://www.kpm.unibe.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.3023542279,47.050988973</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Pfistergasse 20</td></tr><tr><td></td><td>6003 Luzern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Europarecht, Völkerrecht, Öffentliches Recht und Rechtsvergleichung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.unilu.ch/fakultaeten/rf/professuren/heselhaus-sebastian> https://www.unilu.ch/fakultaeten/rf/professuren/heselhaus-sebastian/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.30232790838,47.050989171</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Frohburgstrasse 3</td></tr><tr><td></td><td>6002 Luzern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Öffentliches Recht und Recht des ländlichen Raums</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unilu.ch/deu/norer,_roland_117300.html> http://www.unilu.ch/deu/norer,_roland_117300.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.37327375541,47.4309685997</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität St.Gallen</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Bodanstrasse 6</td></tr><tr><td></td><td>9000 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Informationsrecht (FIR-HSG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fir.unisg.ch> http://www.fir.unisg.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54725601809,47.3746788299</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rämistrasse 74/32</td></tr><tr><td></td><td>8001 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Staats- und Verwaltungsrecht mit Schwerpunkt Raumplanungs-, Bau- und Umweltrecht</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.rwi.uzh.ch/lehreforschung/alphabetisch/griffel.html> http://www.rwi.uzh.ch/lehreforschung/alphabetisch/griffel.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54556886543,47.3673999028</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rämistrasse 74/13</td></tr><tr><td></td><td>8001 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Staats-, Verwaltungs- und Völkerrecht mit Schwerpunkt Öffentliches Recht, Europarecht und Völkerrecht</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ivr.uzh.ch/institutsmitglieder/keller/HK_en.html> http://www.ivr.uzh.ch/institutsmitglieder/keller/HK_en.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15772088086,46.7929580922</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Av. de Beauregard 13</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Chaire droit économique et de droit international privé</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/droiteconomique> http://www.unifr.ch/droiteconomique/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.14586927721,46.802283632</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue de Beauregard 13</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Chaire de droit administratif</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/droitadministratif> http://www.unifr.ch/droitadministratif/</a></p></td></tr> 
+<tr><td class="cell-leftr">Chaire de droit constitutionnel</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/ius/dubey/home> http://www.unifr.ch/ius/dubey/home</a></p></td></tr> 
+<tr><td class="cell-leftr">Lehrstuhl für Europarecht, Völkerrecht und öffentliches Recht</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/voer-eur> http://www.unifr.ch/voer-eur/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.14586927721,46.802283632</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue de Beauregard 13</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Chaire de droit administratif</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/droitadministratif> http://www.unifr.ch/droitadministratif/</a></p></td></tr> 
+<tr><td class="cell-leftr">Lehrstuhl für Europarecht, Völkerrecht und öffentliches Recht</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/voer-eur> http://www.unifr.ch/voer-eur/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.14913042699,46.802417875</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Av. Beauregard 1</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Droit constitutionnel et administratif - Groupe Hänni</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/ius/haenni/home> http://www.unifr.ch/ius/haenni/home</a></p></td></tr> 
+<tr><td class="cell-leftr">Institut für Föderalismus</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/ius/federalism_de/home> http://www.unifr.ch/ius/federalism_de/home</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.14913042699,46.802417875</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Av. Beauregard 1</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Droit constitutionnel et administratif - Groupe Hänni</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/ius/haenni/home> http://www.unifr.ch/ius/haenni/home</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.14586927721,46.802283632</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue du Beauregard 11</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Chaire de droit administratif</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/droitadministratif> http://www.unifr.ch/droitadministratif/</a></p></td></tr> 
+<tr><td class="cell-leftr">Chaire de droit constitutionnel</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/ius/dubey/home> http://www.unifr.ch/ius/dubey/home</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533529143,46.5220799302</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Internef</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Droit public suisse  </td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/droitpublic> http://www.unil.ch/droitpublic</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.9387111519,46.9938252065</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue du 1er-Mars 26</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Centre interdisciplinaire de droit et d'étude de la circulation routière (CIDECR)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/cidecr/page-5700.html> http://www2.unine.ch/cidecr/page-5700.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

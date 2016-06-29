@@ -1,0 +1,135 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.51704694753,47.4288002029</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Reckenholzstrasse 191</td></tr><tr><td></td><td>8046 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Analytische Chemie (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/analytische-chemie/index.html?lang=de> http://www.agroscope.admin.ch/analytische-chemie/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Nachhaltigkeit und Ökosysteme: Hof- und Recyclingdünger</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nachhaltigkeit-und-oekosysteme/hof-und-recyclingduenger.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/nachhaltigkeit-und-oekosysteme/hof-und-recyclingduenger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Landwirtschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/uchem/schwerpunkte/landwirtschaft> http://www.eawag.ch/de/abteilung/uchem/schwerpunkte/landwirtschaft/</a></p></td></tr> 
+<tr><td class="cell-leftr">Modellierung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/uchem/schwerpunkte/modellierung> http://www.eawag.ch/de/abteilung/uchem/schwerpunkte/modellierung/</a></p></td></tr> 
+<tr><td class="cell-leftr">Prozessstudien</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/uchem/schwerpunkte/prozessstudien> http://www.eawag.ch/de/abteilung/uchem/schwerpunkte/prozessstudien/</a></p></td></tr> 
+<tr><td class="cell-leftr">Umweltverhalten von Schadstoffen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/uchem/organisation/gruppenseite-hollender> http://www.eawag.ch/de/abteilung/uchem/organisation/gruppenseite-hollender/</a></p></td></tr> 
+<tr><td class="cell-leftr">Biogeochemie von Metallen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/abteilung/utox/organisation/biogeochemie-von-metallen> http://www.eawag.ch/abteilung/utox/organisation/biogeochemie-von-metallen/</a></p></td></tr> 
+<tr><td class="cell-leftr">Anorganische Umweltgeochemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/en/department/wut/main-focus/environmental-inorganic-geochemistry> http://www.eawag.ch/en/department/wut/main-focus/environmental-inorganic-geochemistry/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56795654844,46.5208326499</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 2</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Environmental Chemistry Modeling Laboratory LMCE</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lmce.epfl.ch> http://lmce.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire Central Environnemental (GR-CEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://gr-cel.epfl.ch/page-10571-fr.html> http://gr-cel.epfl.ch/page-10571-fr.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.57024878423,46.5201124964</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 6</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Catalytic Reaction Engineering (GGRC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ggrc.epfl.ch> http://ggrc.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Photonic and Interfaces (LPI)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lpi.epfl.ch> http://lpi.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.57235680476,46.5194988474</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Av. F.-A. Forel 2</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratory of Inorganic Synthesis and Catalysis (LSCI)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lsci.epfl.ch> http://lsci.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Strassenbaustoffe und Beläge</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/de/web/s301/research-topics> https://www.empa.ch/de/web/s301/research-topics</a></p></td></tr> 
+<tr><td class="cell-leftr">Air &amp; Particle Analysis</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s502/group-for-air-particle-analysis> https://www.empa.ch/web/s502/group-for-air-particle-analysis</a></p></td></tr> 
+<tr><td class="cell-leftr">Environmental Mass Spectrometry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s502/group-for-environmental-mass-spectrometry> https://www.empa.ch/web/s502/group-for-environmental-mass-spectrometry</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.63852888874,47.5339555055</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Nordwestschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Gründenstrasse 40</td></tr><tr><td></td><td>4132 Muttenz</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Green Chemistry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/umweltbiotechnologie-und-umwelttechnik> http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/umweltbiotechnologie-und-umwelttechnik</a></p></td></tr> 
+<tr><td class="cell-leftr">Ökotoxikologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/oekotoxikologie> http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/oekotoxikologie</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.36333324055,46.2443056841</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route du Rawyl 64</td></tr><tr><td></td><td>1950 Sion</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Chimie analytique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hevs.ch/en/rad-instituts/institute-of-life-technologies/activites-instituts/platform-analytical-chemistry-10634> http://www.hevs.ch/en/rad-instituts/institute-of-life-technologies/activites-instituts/platform-analytical-chemistry-10634</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15896812511,46.7923854413</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin du Musée 9</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratory for Organic Photochemistry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.chem.unifr.ch/en/research/bochet_group> http://www.chem.unifr.ch/en/research/bochet_group</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13276778184,46.1977734548</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Quai Ernest-Ansermet 30</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratory of Colloid and Surface Chemistry (LCSC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://colloid.unige.ch> http://colloid.unige.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.64042267414,46.523100743</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de Bugnon 7</td></tr><tr><td></td><td>1005 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Cellular pathways of environmental adverse effects</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://wwwfbm.unil.ch/physiol/zurich_pres_en.html> http://wwwfbm.unil.ch/physiol/zurich_pres_en.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Environmental Geochemistry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101835> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/101835</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Mess- und Sensortechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/ueber-uns/person/demc> https://www.zhaw.ch/de/ueber-uns/person/demc/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.68766180848,47.219267848</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Einsiedlerstrasse 31</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Analytische und Physikalische Chemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/icbt/analytische-und-physikalische-chemie> https://www.zhaw.ch/de/lsfm/institute-zentren/icbt/analytische-und-physikalische-chemie/</a></p></td></tr> 
+<tr><td class="cell-leftr">Chemical and Biochemical Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.icbc.zhaw.ch/de/science/icbc/fachstellen/biochemical-engineering.html> http://www.icbc.zhaw.ch/de/science/icbc/fachstellen/biochemical-engineering.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Physikalische Chemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/icbt/analytische-und-physikalische-chemie/physikalische-chemie> https://www.zhaw.ch/de/lsfm/institute-zentren/icbt/analytische-und-physikalische-chemie/physikalische-chemie/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

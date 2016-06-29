@@ -1,0 +1,164 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.62153797498,47.0574196076</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Pestalozzistrasse 20</td></tr><tr><td></td><td>3401 Burgdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Geotechnik und Naturereignisse</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-siedlungsentwicklung-und-infrastruktur/geotechnik-und-naturereignisse.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-siedlungsentwicklung-und-infrastruktur/geotechnik-und-naturereignisse.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Gebirgswald &amp; Naturgefahren</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/gebirgswald-naturgefahren-und-gis.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/waldwissenschaften/gebirgswald-naturgefahren-und-gis.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.36746385863,46.2285930745</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Centre de recherche sur l'environnement alpin</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de l'Industrie 45</td></tr><tr><td></td><td>1951 Sion</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Centre de recherche sur l'environnement alpin</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.crealp.ch> http://www.crealp.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Laboratoire de Mécanique des Roches (LMR)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lmr.epfl.ch> http://lmr.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50672010264,47.4082525086</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Stefano-Franscini-Platz 5</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Strukturdynamik und Erdbebeningenieurwesen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.stojadinovic.ibk.ethz.ch> http://www.stojadinovic.ibk.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54643550716,47.3778889853</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Clausiusstrasse 25</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Magmatic Petrology and Volcanology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geopetro.ethz.ch/research/magmatic> http://www.geopetro.ethz.ch/research/magmatic</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54768530235,47.3781288608</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sonnegstrasse 5</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Schweizerische Erdbebendienst (SED)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.seismo.ethz.ch> http://www.seismo.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Seismologie und Geodynamik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.seg.ethz.ch> http://www.seg.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54768530235,47.3781288608</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sonneggstrasse 5</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Schweizerische Erdbebendienst (SED)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.seismo.ethz.ch> http://www.seismo.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Verstärkung und Erdbebenertüchtigung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s303/strenghtening-and-seismic-retroffitting> https://www.empa.ch/web/s303/strenghtening-and-seismic-retroffitting</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Fachstelle für Geotechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ibu.hsr.ch/Geotechnik.10791.0.html> http://www.ibu.hsr.ch/Geotechnik.10791.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.65989693939,46.7794231153</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>rte de cheseaux 1</td></tr><tr><td></td><td>1400 Yverdon-Les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Géotechnique et dangers naturels</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/g2c> http://www.heig-vd.ch/rad/g2c</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.4352611562,46.952646226</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Hallerstrasse 12</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Geomorphologie, Naturgefahren- und Risikofoschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geography.unibe.ch/forschung/geomorphologie/index_ger.html> http://www.geography.unibe.ch/forschung/geomorphologie/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15772088086,46.7929580922</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin du Musée 6</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Geology - Tectonics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/geoscience/geology/en/research/geology-tectonics/tectonics-geodynamics> http://www.unifr.ch/geoscience/geology/en/research/geology-tectonics/tectonics-geodynamics</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.84722271712,46.8120135934</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Flüelastrasse 11</td></tr><tr><td></td><td>7260 Davos</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Lawinenbildung - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenbildung/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenbildung/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Lawinenwarnung - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenwarnung/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenwarnung/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Schutzmassnahmen - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/schutzmassnahmen/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/schutzmassnahmen/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.84722271712,46.8120135934</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Flüelastrasse 11</td></tr><tr><td></td><td>7260  Davos Dorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Lawinenbildung - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenbildung/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenbildung/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Schutzmassnahmen - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/schutzmassnahmen/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/schutzmassnahmen/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.84722271712,46.8120135934</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Flüelastrasse 11</td></tr><tr><td></td><td>7260 Davos Dorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Lawinenbildung - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenbildung/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenbildung/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Lawinenwarnung - SLF</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenwarnung/index_DE> http://www.slf.ch/ueber/organisation/warnung_praevention/lawinenwarnung/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Hydrologische Vorhersagen (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/gebirgshydrologie/HEX> http://www.wsl.ch/fe/gebirgshydrologie/HEX</a></p></td></tr> 
+<tr><td class="cell-leftr">Massenbewegungen (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/gebirgshydrologie/massenbewegungen/index_DE> http://www.wsl.ch/fe/gebirgshydrologie/massenbewegungen/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Wildbäche (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/gebirgshydrologie/wildbaeche/index_DE> http://www.wsl.ch/fe/gebirgshydrologie/wildbaeche/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Hydrologische Vorhersagen (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/gebirgshydrologie/HEX> http://www.wsl.ch/fe/gebirgshydrologie/HEX</a></p></td></tr> 
+<tr><td class="cell-leftr">Wildbäche (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/gebirgshydrologie/wildbaeche/index_DE> http://www.wsl.ch/fe/gebirgshydrologie/wildbaeche/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Hydrologische Vorhersagen (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/gebirgshydrologie/HEX> http://www.wsl.ch/fe/gebirgshydrologie/HEX</a></p></td></tr> 
+<tr><td class="cell-leftr">Massenbewegungen (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/gebirgshydrologie/massenbewegungen/index_DE> http://www.wsl.ch/fe/gebirgshydrologie/massenbewegungen/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

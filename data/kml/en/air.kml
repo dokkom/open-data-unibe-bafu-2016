@@ -1,0 +1,264 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.51704694753,47.4288002029</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Reckenholzstrasse 191</td></tr><tr><td></td><td>8046 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Klima und Lufthygiene  (Reckenholz)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/lufthygiene-klima/index.html?lang=de> http://www.agroscope.admin.ch/lufthygiene-klima/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842347492,47.3792371753</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätstrasse 16</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Atmosphärenchemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iac.ethz.ch/groups/peter> http://www.iac.ethz.ch/groups/peter/</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmosphärenphysik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iac.ethz.ch/groups/lohmann> http://www.iac.ethz.ch/groups/lohmann</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842347492,47.3792371753</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätstrasse 16</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Atmosphärenchemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iac.ethz.ch/groups/peter> http://www.iac.ethz.ch/groups/peter/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.463911605,46.9244254849</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössisches Institut für Metrologie (METAS)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lindenweg 50</td></tr><tr><td></td><td>3003 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Gasanalytik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.metas.ch/metas/de/home/fabe/gasanalytik.html> http://www.metas.ch/metas/de/home/fabe/gasanalytik.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Partikel und Aerosole</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.metas.ch/metas/de/home/fabe/partikel-und-aerosole.html> http://www.metas.ch/metas/de/home/fabe/partikel-und-aerosole.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.463911605,46.9244254849</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössisches Institut für Metrologie (METAS)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lindenweg 50</td></tr><tr><td></td><td>3003 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Gasanalytik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.metas.ch/metas/de/home/fabe/gasanalytik.html> http://www.metas.ch/metas/de/home/fabe/gasanalytik.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Abteilung Vehicle Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Powertrain Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmospheric Modeling and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/modelling-remote-sensing> https://www.empa.ch/web/s503/modelling-remote-sensing</a></p></td></tr> 
+<tr><td class="cell-leftr">Climate Gases</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/climate-gases> https://www.empa.ch/web/s503/climate-gases</a></p></td></tr> 
+<tr><td class="cell-leftr">Emissions and Isotopes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/emissions-and-isotopes> https://www.empa.ch/web/s503/emissions-and-isotopes</a></p></td></tr> 
+<tr><td class="cell-leftr">Global Atmosphere Watch (GAW)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/global-atmosphere-watch> https://www.empa.ch/web/s503/global-atmosphere-watch</a></p></td></tr> 
+<tr><td class="cell-leftr">Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/nabel> https://www.empa.ch/web/s503/nabel</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Powertrain Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmospheric Modeling and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/modelling-remote-sensing> https://www.empa.ch/web/s503/modelling-remote-sensing</a></p></td></tr> 
+<tr><td class="cell-leftr">Climate Gases</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/climate-gases> https://www.empa.ch/web/s503/climate-gases</a></p></td></tr> 
+<tr><td class="cell-leftr">Emissions and Isotopes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/emissions-and-isotopes> https://www.empa.ch/web/s503/emissions-and-isotopes</a></p></td></tr> 
+<tr><td class="cell-leftr">Global Atmosphere Watch (GAW)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/global-atmosphere-watch> https://www.empa.ch/web/s503/global-atmosphere-watch</a></p></td></tr> 
+<tr><td class="cell-leftr">Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/nabel> https://www.empa.ch/web/s503/nabel</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Abteilung Vehicle Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmospheric Modeling and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/modelling-remote-sensing> https://www.empa.ch/web/s503/modelling-remote-sensing</a></p></td></tr> 
+<tr><td class="cell-leftr">Climate Gases</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/climate-gases> https://www.empa.ch/web/s503/climate-gases</a></p></td></tr> 
+<tr><td class="cell-leftr">Emissions and Isotopes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/emissions-and-isotopes> https://www.empa.ch/web/s503/emissions-and-isotopes</a></p></td></tr> 
+<tr><td class="cell-leftr">Global Atmosphere Watch (GAW)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/global-atmosphere-watch> https://www.empa.ch/web/s503/global-atmosphere-watch</a></p></td></tr> 
+<tr><td class="cell-leftr">Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/nabel> https://www.empa.ch/web/s503/nabel</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Abteilung Vehicle Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Powertrain Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Climate Gases</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/climate-gases> https://www.empa.ch/web/s503/climate-gases</a></p></td></tr> 
+<tr><td class="cell-leftr">Emissions and Isotopes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/emissions-and-isotopes> https://www.empa.ch/web/s503/emissions-and-isotopes</a></p></td></tr> 
+<tr><td class="cell-leftr">Global Atmosphere Watch (GAW)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/global-atmosphere-watch> https://www.empa.ch/web/s503/global-atmosphere-watch</a></p></td></tr> 
+<tr><td class="cell-leftr">Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/nabel> https://www.empa.ch/web/s503/nabel</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Abteilung Vehicle Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Powertrain Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmospheric Modeling and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/modelling-remote-sensing> https://www.empa.ch/web/s503/modelling-remote-sensing</a></p></td></tr> 
+<tr><td class="cell-leftr">Emissions and Isotopes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/emissions-and-isotopes> https://www.empa.ch/web/s503/emissions-and-isotopes</a></p></td></tr> 
+<tr><td class="cell-leftr">Global Atmosphere Watch (GAW)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/global-atmosphere-watch> https://www.empa.ch/web/s503/global-atmosphere-watch</a></p></td></tr> 
+<tr><td class="cell-leftr">Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/nabel> https://www.empa.ch/web/s503/nabel</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Abteilung Vehicle Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Powertrain Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmospheric Modeling and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/modelling-remote-sensing> https://www.empa.ch/web/s503/modelling-remote-sensing</a></p></td></tr> 
+<tr><td class="cell-leftr">Climate Gases</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/climate-gases> https://www.empa.ch/web/s503/climate-gases</a></p></td></tr> 
+<tr><td class="cell-leftr">Global Atmosphere Watch (GAW)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/global-atmosphere-watch> https://www.empa.ch/web/s503/global-atmosphere-watch</a></p></td></tr> 
+<tr><td class="cell-leftr">Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/nabel> https://www.empa.ch/web/s503/nabel</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Abteilung Vehicle Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Powertrain Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmospheric Modeling and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/modelling-remote-sensing> https://www.empa.ch/web/s503/modelling-remote-sensing</a></p></td></tr> 
+<tr><td class="cell-leftr">Climate Gases</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/climate-gases> https://www.empa.ch/web/s503/climate-gases</a></p></td></tr> 
+<tr><td class="cell-leftr">Emissions and Isotopes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/emissions-and-isotopes> https://www.empa.ch/web/s503/emissions-and-isotopes</a></p></td></tr> 
+<tr><td class="cell-leftr">Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/nabel> https://www.empa.ch/web/s503/nabel</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Abteilung Exhaust Aftertreatment Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Abteilung Vehicle Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Powertrain Systems Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s504/team> https://www.empa.ch/web/s504/team</a></p></td></tr> 
+<tr><td class="cell-leftr">Atmospheric Modeling and Remote Sensing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/modelling-remote-sensing> https://www.empa.ch/web/s503/modelling-remote-sensing</a></p></td></tr> 
+<tr><td class="cell-leftr">Climate Gases</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/climate-gases> https://www.empa.ch/web/s503/climate-gases</a></p></td></tr> 
+<tr><td class="cell-leftr">Emissions and Isotopes</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/emissions-and-isotopes> https://www.empa.ch/web/s503/emissions-and-isotopes</a></p></td></tr> 
+<tr><td class="cell-leftr">Global Atmosphere Watch (GAW)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s503/global-atmosphere-watch> https://www.empa.ch/web/s503/global-atmosphere-watch</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.21306983028,47.4796252939</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Nordwestschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Klosterzelgstrasse 2</td></tr><tr><td></td><td>5210 Windisch</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Aerosolmesstechnik, Partikeltechnologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/technik/iast/forschung/aerosolmesstechnik/projekte-partikelmesstechnik> http://www.fhnw.ch/technik/iast/forschung/aerosolmesstechnik/projekte-partikelmesstechnik</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.30575499279,47.0138564264</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Hochschule Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technikumstrasse 21</td></tr><tr><td></td><td>6048 Horw</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Bioenergie und Nachhaltigkeit</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.hslu.ch/de-ch/technik-architektur/forschung/kompetenzzentren/thermische-energiesysteme-und-verfahrenstechnik/bioenergie> https://www.hslu.ch/de-ch/technik-architektur/forschung/kompetenzzentren/thermische-energiesysteme-und-verfahrenstechnik/bioenergie/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l'Aérologie 1</td></tr><tr><td></td><td>1530 Payerne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Biométéorologie Payerne</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5234 Villigen, Brugg</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Surface Chemistry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lch/surface-chemistry> http://www.psi.ch/lch/surface-chemistry</a></p></td></tr> 
+<tr><td class="cell-leftr">Aerosol Physics Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/aerosol-physics-group> http://www.psi.ch/lac/aerosol-physics-group</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecosystem Fluxes Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/ecosystem-fluxes-group> http://www.psi.ch/lac/ecosystem-fluxes-group</a></p></td></tr> 
+<tr><td class="cell-leftr">Gasphase and Aerosol Chemistry Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/gasphase-and-aerosol-chemistry-group> http://www.psi.ch/lac/gasphase-and-aerosol-chemistry-group</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5232 Villigen PSI</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Surface Chemistry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lch/surface-chemistry> http://www.psi.ch/lch/surface-chemistry</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecosystem Fluxes Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/ecosystem-fluxes-group> http://www.psi.ch/lac/ecosystem-fluxes-group</a></p></td></tr> 
+<tr><td class="cell-leftr">Gasphase and Aerosol Chemistry Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/gasphase-and-aerosol-chemistry-group> http://www.psi.ch/lac/gasphase-and-aerosol-chemistry-group</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5253 Villigen</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Surface Chemistry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lch/surface-chemistry> http://www.psi.ch/lch/surface-chemistry</a></p></td></tr> 
+<tr><td class="cell-leftr">Aerosol Physics Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/aerosol-physics-group> http://www.psi.ch/lac/aerosol-physics-group</a></p></td></tr> 
+<tr><td class="cell-leftr">Gasphase and Aerosol Chemistry Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/gasphase-and-aerosol-chemistry-group> http://www.psi.ch/lac/gasphase-and-aerosol-chemistry-group</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5234 Villigen, Brugg</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Surface Chemistry</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lch/surface-chemistry> http://www.psi.ch/lch/surface-chemistry</a></p></td></tr> 
+<tr><td class="cell-leftr">Aerosol Physics Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/aerosol-physics-group> http://www.psi.ch/lac/aerosol-physics-group</a></p></td></tr> 
+<tr><td class="cell-leftr">Ecosystem Fluxes Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lac/ecosystem-fluxes-group> http://www.psi.ch/lac/ecosystem-fluxes-group</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.57737825673,47.5559266944</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Schweizerisches Tropen- und Public Health Institut (Swiss TPH)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Socinstrasse 57</td></tr><tr><td></td><td>4051 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Biostatistics: Fequentist Modelling</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstph.ch/about-us/departments/epidemiology-and-public-health-eph/biostatistics/biostatistics-frequentist-modelling.html> http://www.swisstph.ch/about-us/departments/epidemiology-and-public-health-eph/biostatistics/biostatistics-frequentist-modelling.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.58050209229,47.561552992</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Klingelbergstrasse 27</td></tr><tr><td></td><td>4056 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Meteorologie, Klimatologie und Fernerkundung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.mcr.unibas.ch/typo3/index.php?id=forschung> http://www.mcr.unibas.ch/typo3/index.php?id=forschung</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.42906092954,46.9516653991</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Baltzerstrasse 2</td></tr><tr><td></td><td>3000 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geiser - Nano Aerosol</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ana.unibe.ch/forschung/gruppe_geiser/index_ger.html> http://www.ana.unibe.ch/forschung/gruppe_geiser/index_ger.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Histologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.anaweb.ch/ueber_uns/team/detail/index_ger.php?let=E&id=14> http://www.anaweb.ch/ueber_uns/team/detail/index_ger.php?let=E&id=14</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.42906092954,46.9516653991</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Baltzerstrasse 2</td></tr><tr><td></td><td>3000 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Geiser - Nano Aerosol</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ana.unibe.ch/forschung/gruppe_geiser/index_ger.html> http://www.ana.unibe.ch/forschung/gruppe_geiser/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.14842104996,46.1933019244</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue Gabrielle-Perret-Gentil 4</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Service de pneumologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/medecine/demed/fr> http://www.unige.ch/medecine/demed/fr/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

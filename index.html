@@ -1,0 +1,316 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+
+    <!-- Source CSS -->
+    <link rel="stylesheet" href="node_modules/swiss-styleguide/styleguide/css/vendors.css">
+    <link rel="stylesheet" href="node_modules/swiss-styleguide//styleguide/css/admin.css">
+    <link rel="stylesheet" href="node_modules/swiss-styleguide//styleguide/css/print.css">
+
+    <!-- Styleguide CSS -->
+    <link rel="stylesheet" href="node_modules/swiss-styleguide//styleguide/css/fabricator.css">
+
+    <!-- Source Scripts -->
+    <script src="node_modules/swiss-styleguide/styleguide/js/vendors.min.js"></script>
+    <script src="node_modules/swiss-styleguide//styleguide/js/main.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <!-- Styleguide Scripts -->
+    <script src="node_modules/swiss-styleguide//styleguide/js/fabricator.min.js"></script>
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="node_modules/swiss-styleguide/styleguide/img/ico/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="node_modules/swiss-styleguide/styleguide/img/ico/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="node_modules/swiss-styleguide/styleguide/img/ico/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="node_modules/swiss-styleguide/styleguide/img/ico/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="node_modules/swiss-styleguide/styleguide/img/ico/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="node_modules/swiss-styleguide/styleguide/img/ico/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="node_modules/swiss-styleguide/styleguide/img/ico/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="node_modules/swiss-styleguide/styleguide/img/ico/apple-touch-icon-76x76.png">
+    <link rel="icon" type="image/png" href="node_modules/swiss-styleguide/styleguide/img/ico/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="node_modules/swiss-styleguide/styleguide/img/ico/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="node_modules/swiss-styleguide/styleguide/img/ico/favicon-32x32.png" sizes="32x32">
+
+    <script src="http://api3.geo.admin.ch/loader.js?lang=en" type="text/javascript"></script>
+    <style>
+
+        body {
+            max-width: 588px;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 12px;
+            line-height: 1.42857143;
+            color: #333;
+            background-color: #FFFFFF
+            text-overflow: auto;
+        }
+
+        .map {
+            height: 400px;
+            max-width: 588px;
+        }
+        
+        .cell-left {
+            width: 120px;
+        }
+        
+        td,
+        div, table {
+            
+        }
+        
+        .cell-leftr {
+            width: 430px;
+        }
+        
+        h1 {
+            font-family: FrutigerLight, Arial, sans-serif font-size: 17px;
+        }
+        
+        
+        .heading {
+            max-width: 588px;
+        }
+        
+        #checkboxes {
+            white-space: nowrap;
+            /* Chrome */
+            -webkit-column-count: 3;
+            /* Firefox */
+            -moz-column-count: 3;
+            column-count: 3;
+        
+        }
+        
+        #map {
+            padding-top: 15px;
+        }
+        
+        
+        #pl_info {
+            max-width: 588px;
+            padding-top: 20px;
+            text-overflow: scroll;
+            overflow: ellipsis;
+            float: left;
+        }
+        
+        #mainhead {
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+    
+        input {
+            position: relative;
+            bottom: 1px;   
+        }
+        
+        label {
+            position: relative;
+            padding-left: 5px !important;
+            bottom: 3px;
+         /*   margin-left: 10px; */
+        }  
+
+
+    </style>
+    <title>Open Data </title>
+</head>
+
+<body>
+    <header>
+        <div class="clearfix">
+            <section class="nav-services clearfix">
+                <h2 class="sr-only">Sprachwahl</h2>
+                <nav class="nav-lang">
+                    <ul>
+                        <li>
+                            <a href="#" id="de" lang="de" title="Deutsch" aria-label="Deutsch" class="active">DE</a>
+                        </li>
+                        <li>
+                            <a href="#" id="fr" lang="fr" title="Français" aria-label="Français " class="">FR</a>
+                        </li>
+                        <li>
+                            <a href="#" id="it" lang="it" title="Italiano" aria-label="Italiano" class="">IT</a>
+                        </li>
+                        <li>
+                            <a href="#" id="en" lang="en" title="English" aria-label="English " class="">EN</a>
+                        </li>
+                    </ul>
+                </nav>
+            </section>
+        </div>
+
+        <div class="clearfix" id="heading">
+            <a href="http://www.bafu.admin.ch" class="brand hidden-xs">
+                <img src="node_modules/swiss-styleguide/styleguide/img/logo-CH.svg" onerror="this.onerror=null; this.src='../styleguide/img/logo-CH.png'" alt="Logo der Schweizerischen Eidgenossenschaft – zur Startseite" />
+                <h1 title="Startseite Bundesamt für Umwelt">Bundesamt für Umwelt<p></p>Schweizerische Forschungslandschaft im Umweltbereich</h1>
+            </a>
+        </div>
+    </header>
+    <div class="container-main clearfix">
+        <div class="col-sm-12">
+
+            <div class="header-separator"></div>
+            <div>
+                <h1 id="mainhead" align="left"> Hauptforschungsthema 
+           </h1>
+            </div>
+            <div id="checkboxes">
+            </div>
+            <div id="map" class="map">
+            </div>
+            <div id="pl_info">
+                <div id="marker"> </div>
+            </div>
+        </div>
+    </div>
+    <div id="pl_info"> </div>
+
+
+</body>
+<script type="text/javascript">
+    language = 'de';
+
+    var layer = ga.layer.create('ch.swisstopo.pixelkarte-farbe');
+    var map = new ga.Map({
+        target: 'map',
+        layers: [layer],
+        view: new ol.View({
+            //resolution: 750,
+            center: [661052, 190981]
+        })
+    });
+
+    map.on('singleclick', function(evt) {
+        var pixel = evt.pixel;
+        var coordinate = evt.coordinate;
+        var feature = map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+            return feature;
+        });
+
+        if (feature) {
+            $('#pl_info').html(feature.get('description'));
+        }
+    });
+
+    function gen_topics(l) {
+        $('#checkboxes').html("");
+        d3.csv("data/topics_" + l + ".csv", function(data) {
+            data.forEach(function(d) {
+                var topic = d.topic.replace(/\s+/g, '');
+
+
+
+
+
+
+
+                 $('#checkboxes').append("<div id=\"chboxlyr\"><fieldset><input type=\"checkbox\" onClick=\"changeLayer(this);\" id=" + topic +  "></input><label for=\" " + topic + "\" >" +  d.topic + "</label></fieldset></div>");
+                
+  
+               /*         $('#checkboxes').append(
+                             "<div class=\"checkbox checkbox--left\">"
+                            +   "<label>" 
+                            +    "<input type=\"checkbox\" id=" + topic + ">" + d.topic
+                            +   "</label"
+                            + "<div" ); */   // margin between checkbox and label
+
+            });   
+        });
+    }
+  
+    gen_topics(language);
+
+    map.on('pointermove', function(evt) {
+        var feature = map.forEachFeatureAtPixel(evt.pixel, function(feature, layer) {
+            return feature;
+        });
+        map.getTargetElement().style.cursor = feature ? 'pointer' : '';
+    });
+
+    function changeLayer(chbox) {
+        $('#pl_info').html("");
+
+        if (chbox.checked) {
+
+            var layer = "layer";
+            var layer = new ol.layer.Vector({
+                source: new ol.source.Vector({
+                    url: 'data/kml/' + language + "/" + chbox.id + '.kml',
+                    format: new ol.format.KML({})
+                })
+            });
+
+            window["layer_" + chbox.id] = layer;
+
+            map.addLayer(window["layer_" + chbox.id]);
+        } else {
+            window["layer_" + chbox.id].setVisible(false);
+        }
+    }
+
+    function resetMap() {
+        var num = map.getLayers().length;
+
+        for (var i = num - 1; i >= 0; i--) {
+            map.removeLayer(map.layers[i]);
+        }
+        map.addLayer(layer);
+    }
+
+
+    function normalizeButtons() {
+        $('#de').attr("class", "");
+        $('#en').attr("class", "");
+        $('#fr').attr("class", "");
+        $('#it').attr("class", "");
+        $("#pl_info").html("");
+    }
+
+    // some language stuff but tbh, this is some prototype and should actually be resolved with different index files
+    $('#en').click(function() {
+        language = 'en';
+        normalizeButtons();
+        resetMap();
+        $('#mainhead').html("Main research topic ");
+        $('#heading h1').html("<h1 title=\"Homepage Federal Office for the Environment\">Federal Office for the Environment FOEN<p></p>Environmental research in Switzerland</h1>");
+        $('#en').attr("class", "active");
+        gen_topics("en");
+    });
+
+    $('#de').click(function() {
+        language = 'de';
+        normalizeButtons();
+        resetMap();
+        $('#mainhead').html("Hauptforschungsthema");
+        $('#heading h1').html("<h1>Bundesamt für Umwelt<p></p>Schweizerische Forschungslandschaft im Umweltbereich</h1>");
+        $('#de').attr("class", "active");
+        gen_topics("de");
+    });
+
+    $('#fr').click(function() {
+        language = 'fr';
+        normalizeButtons();
+        resetMap();
+        $('#mainhead').html("Thème principal de recherche");
+        $('#heading h1').html("<h1 title=\"page d'acceuil de l'office fédéral de l'environnement \">Office fédéral de l'environnement OFEV<p></p>La recherche environnementale en Suisse</h1>");
+        $('#fr').attr("class", "active");
+        gen_topics("fr");
+    });
+
+    $('#it').click(function() {
+        language = 'it';
+        normalizeButtons();
+        resetMap();
+        $('#mainhead').html("Principale argomento di ricerca");
+        $('#heading h1').html("<h1 title=\"alla pagina  iniziale \">Ufficio federale dell'ambiente UFAM<p></p>La ricerca svizzera nel settore ambientale</h1>");
+        $('#it').attr("class", "active");
+        gen_topics("it");
+    });
+</script>
+
+</html>

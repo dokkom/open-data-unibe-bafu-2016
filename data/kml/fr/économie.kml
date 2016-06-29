@@ -1,0 +1,372 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.90691084209,47.4792640348</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Tänikon 1</td></tr><tr><td></td><td>8356 Ettenhausen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Sozioökonomie (Tänikon)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05714/05786/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05714/05786/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Marktforschung und Baumonitoring</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/marktforschung-und-baumonitoring.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/marktforschung-und-baumonitoring.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.46793970271,46.9917984914</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Länggasse 85</td></tr><tr><td></td><td>3052 Zollikofen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Agrarökonomie: Agrarmarketing, Regionalökonomie und Agrotourismus</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/agraroekonomie/agrarmarketing-und-regionaloekonomie.html> http://www.hafl.bfh.ch/forschung-dienstleistungen/agrarwissenschaften/agraroekonomie/agrarmarketing-und-regionaloekonomie.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61186865973,47.4020070255</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EAWAG</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 133</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Environmental Economics (EnvEco)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eawag.ch/de/abteilung/ess/empirischer-fokus/enveco> http://www.eawag.ch/de/abteilung/ess/empirischer-fokus/enveco/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56480478074,46.5215101702</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 16</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Recherches en Économie et Management de l'Environnement (REME)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://reme.epfl.ch> http://reme.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55376073257,47.3735547968</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürichbergstrasse 18</td></tr><tr><td></td><td>8032 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Energy and Public Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eepe.ethz.ch> http://www.eepe.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Energy Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.enec.ethz.ch> http://www.enec.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Resource Economics (RESEC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cer.ethz.ch/resec> http://www.cer.ethz.ch/resec</a></p></td></tr> 
+<tr><td class="cell-leftr">Macroeconomics: Innovation and Policy</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.mip.ethz.ch> http://www.mip.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55376073257,47.3735547968</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürichbergstrasse 18</td></tr><tr><td></td><td>8032 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Energy and Public Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eepe.ethz.ch> http://www.eepe.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Resource Economics (RESEC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cer.ethz.ch/resec> http://www.cer.ethz.ch/resec</a></p></td></tr> 
+<tr><td class="cell-leftr">Macroeconomics: Innovation and Policy</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.mip.ethz.ch> http://www.mip.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55376073257,47.3735547968</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürichbergstrasse 18</td></tr><tr><td></td><td>8032 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Energy and Public Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eepe.ethz.ch> http://www.eepe.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Energy Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.enec.ethz.ch> http://www.enec.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Macroeconomics: Innovation and Policy</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.mip.ethz.ch> http://www.mip.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55376073257,47.3735547968</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürichbergstrasse 18</td></tr><tr><td></td><td>8032 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Energy and Public Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.eepe.ethz.ch> http://www.eepe.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Energy Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.enec.ethz.ch> http://www.enec.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Resource Economics (RESEC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cer.ethz.ch/resec> http://www.cer.ethz.ch/resec</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54615102089,47.3801315111</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sonneggstrasse 33</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Agrarökonomie und Agrarpolitik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.aecp.ethz.ch> http://www.aecp.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842202743,47.3798038853</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätstrasse 22</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Konsumentenverhalten</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cb.ethz.ch> http://www.cb.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54587143666,47.3787849146</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Clausiusstrasse 37</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Nationalökonomie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.econ.ethz.ch> http://www.econ.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842347492,47.3792371753</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Universitätsstrasse 16</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Umweltpolitik und Umweltökonomie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pepe.ethz.ch/about/index> http://www.pepe.ethz.ch/about/index</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13985723275,46.1748414142</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route de Drize 7</td></tr><tr><td></td><td>1227 Carrouge</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Economie de l'environnement</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hesge.ch/heg/recherche-appliquee/domaines-dexpertise/economie-publique-des-reseaux-et-lenvironnement> http://www.hesge.ch/heg/recherche-appliquee/domaines-dexpertise/economie-publique-des-reseaux-et-lenvironnement</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.64733905511,46.7811989722</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue des Sports 20</td></tr><tr><td></td><td>1401 Yverdon-les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">IGE - UREP : Unité de Recherche appliquée en Economie Publique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.urep.ch/?page_id=18> http://www.urep.ch/?page_id=18</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.53954208785,46.2829938098</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rte de la Plaine 2</td></tr><tr><td></td><td>3960 Sierre</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">E-Tourisme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hevs.ch/fr/rad-instituts/institut-tourisme/pages-instituts/presentation-1120> http://www.hevs.ch/fr/rad-instituts/institut-tourisme/pages-instituts/presentation-1120</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.57778745824,46.5262962009</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de hautes études en administration publique (IDHEAP)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Mouline 28</td></tr><tr><td></td><td>1022 Chavannes-près-Renens</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Chaire Finances publiques </td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/idheap/home/menuinst/unitescompetences/finances-publiques.html> http://www.unil.ch/idheap/home/menuinst/unitescompetences/finances-publiques.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.02568301042,47.5154445262</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de recherche de l'agriculture biologique (FIBL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Ackerstrasse 113</td></tr><tr><td></td><td>5070 Frick</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Innovation in der Landwirtschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/soziooekonomie/innovation-landwirtschaft.html> http://www.fibl.org/de/schweiz/forschung/soziooekonomie/innovation-landwirtschaft.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Konsumentenforschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/soziooekonomie/konsumentenforschung.html> http://www.fibl.org/de/schweiz/forschung/soziooekonomie/konsumentenforschung.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.02568301042,47.5154445262</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de recherche de l'agriculture biologique (FIBL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Ackerstrasse 113</td></tr><tr><td></td><td>5070 Frick</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Innovation in der Landwirtschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fibl.org/de/schweiz/forschung/soziooekonomie/innovation-landwirtschaft.html> http://www.fibl.org/de/schweiz/forschung/soziooekonomie/innovation-landwirtschaft.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.14362313502,46.220750188</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Institut de hautes études internationales et du développement (IHEID)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin Eugène-Rigot 2</td></tr><tr><td></td><td>1202 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">International Economics  Lead, Pictet Chair for Finance and Development</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://graduateinstitute.ch/directory/_/people/arcand> http://graduateinstitute.ch/directory/_/people/arcand</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5253 Villigen PSI</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Energy Economics Group (EEG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/eem> http://www.psi.ch/eem/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.96136411959,46.0264074646</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Trevano, Blocco C</td></tr><tr><td></td><td>6952 Canobbio</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Centro competenze inno3: innovazione, impresa e imprenditorialità</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/inno3/centro.html> http://www.supsi.ch/inno3/centro.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.59495267164,47.5460741532</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Basel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Peter Merian-Weg 6</td></tr><tr><td></td><td>4052 Basel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Umweltökonomie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://wwz.unibas.ch/abteilungen/home/abteilung/umwelt> http://wwz.unibas.ch/abteilungen/home/abteilung/umwelt/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.4352611562,46.952646226</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Hallerstrasse 12</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Wirtschaftsgeographie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geography.unibe.ch/content/forschungsgruppen/wirtschaftsgeographie/index_ger.html> http://www.geography.unibe.ch/content/forschungsgruppen/wirtschaftsgeographie/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43540580473,46.9501905407</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schanzeneckstrasse 1</td></tr><tr><td></td><td>3001 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Environmental and Climate Economics (Group Winkler)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.oeschger.unibe.ch/about_us/people/grouppage/index_eng.html?group=winkler> http://www.oeschger.unibe.ch/about_us/people/grouppage/index_eng.html?group=winkler</a></p></td></tr> 
+<tr><td class="cell-leftr">Forschungsstelle Tourismus</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cred.unibe.ch/content/forschungsstelle_tourismus/index_ger.html> http://www.cred.unibe.ch/content/forschungsstelle_tourismus/index_ger.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43540580473,46.9501905407</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schanzeneckstrasse 1</td></tr><tr><td></td><td>3001 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Environmental and Climate Economics (Group Winkler)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.oeschger.unibe.ch/about_us/people/grouppage/index_eng.html?group=winkler> http://www.oeschger.unibe.ch/about_us/people/grouppage/index_eng.html?group=winkler</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.37296049664,47.4307399215</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität St.Gallen</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Bodanstrasse 8</td></tr><tr><td></td><td>9000 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Schweizerisches Institut für Aussenwirtschaft und Angewandte Wirtschaftsforschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.siaw.unisg.ch/de> http://www.siaw.unisg.ch/de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.37603087592,47.4324069227</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität St.Gallen</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Dufourstrasse 40a</td></tr><tr><td></td><td>9000 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Tourismus und Freizeit</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.imp.unisg.ch/de/ueber+uns/forschungszentrum+tourism+and+transport> http://www.imp.unisg.ch/de/ueber+uns/forschungszentrum+tourism+and+transport</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.37812069215,47.4344501717</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität St.Gallen</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Tannenstrasse 19</td></tr><tr><td></td><td>9000 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Risikomanagement und Versicherungswirtschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unisg.ch/weitereinfohatoschmeiser> http://www.unisg.ch/weitereinfohatoschmeiser</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.37410752182,47.427643787</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität St.Gallen</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Tigerbergstrasse 2</td></tr><tr><td></td><td>9000 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Management Erneuerbarer Energien</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iwoe.unisg.ch/de/lehrstuhlmanagementee> http://www.iwoe.unisg.ch/de/lehrstuhlmanagementee</a></p></td></tr> 
+<tr><td class="cell-leftr">Nachhaltigkeitsmanagement</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iwoe.unisg.ch/lehrstuhlnachhaltigkeitsmanagement> http://www.iwoe.unisg.ch/lehrstuhlnachhaltigkeitsmanagement</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.37410752182,47.427643787</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität St.Gallen</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Tigerbergstrasse 2</td></tr><tr><td></td><td>9000 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Management Erneuerbarer Energien</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iwoe.unisg.ch/de/lehrstuhlmanagementee> http://www.iwoe.unisg.ch/de/lehrstuhlmanagementee</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55038073869,47.3981621554</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Winterthurerstrasse 190</td></tr><tr><td></td><td>8057 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Economic Geography</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geo.uzh.ch/en/units/economic-geography> http://www.geo.uzh.ch/en/units/economic-geography/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54072239956,47.41093773</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Affolternstrasse 56</td></tr><tr><td></td><td>8050 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Politische Ökonomie der Entwicklungs- und Schwellenländer</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ipz.uzh.ch/lehrstuehle/ep.html> http://www.ipz.uzh.ch/lehrstuehle/ep.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54789012579,47.387337946</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Zürich</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Blümlisalpstrasse 10</td></tr><tr><td></td><td>8006 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Microeconomics, Industrial Organization, and Environmental Economics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.econ.uzh.ch/faculty/groupschmutzler.html> http://www.econ.uzh.ch/faculty/groupschmutzler.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.1399495072,46.1948872777</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Boulevard du Pont d'Arve 40</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Economie politique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/gsem/iee/en/members/faculty/robert-nicoud-frederic> http://www.unige.ch/gsem/iee/en/members/faculty/robert-nicoud-frederic/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire d'économie appliquée (LEA)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/ses/lea/index.html> http://www.unige.ch/ses/lea/index.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Socio-économie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cigev.unige.ch/fr/team-cigev/oris> http://cigev.unige.ch/fr/team-cigev/oris/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.1399495072,46.1948872777</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Boulevard du Pont d'Arve 40</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Economie politique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/gsem/iee/en/members/faculty/robert-nicoud-frederic> http://www.unige.ch/gsem/iee/en/members/faculty/robert-nicoud-frederic/</a></p></td></tr> 
+<tr><td class="cell-leftr">Socio-économie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cigev.unige.ch/fr/team-cigev/oris> http://cigev.unige.ch/fr/team-cigev/oris/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13985723275,46.1748414142</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route de Drize 7</td></tr><tr><td></td><td>1227 Carouge</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Knowledge Engerneering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cui.unige.ch/isi/icle-wiki/start> http://cui.unige.ch/isi/icle-wiki/start</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.1399495072,46.1948872777</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Genève</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Boulevard du Pont d'Arve 40</td></tr><tr><td></td><td>1211 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Economie politique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/gsem/iee/en/members/faculty/robert-nicoud-frederic> http://www.unige.ch/gsem/iee/en/members/faculty/robert-nicoud-frederic/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire d'économie appliquée (LEA)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unige.ch/ses/lea/index.html> http://www.unige.ch/ses/lea/index.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533529143,46.5220799302</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Internef</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Econométrie et économie politique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hec.unil.ch/deep> http://www.hec.unil.ch/deep</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.94043372918,46.9937877242</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Abram-Louis Breguet 2</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Economie internationale </td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/jean-marie.grether> http://www2.unine.ch/jean-marie.grether</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.94122348603,46.995104467</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Pierre-à-Mazel 7</td></tr><tr><td></td><td>2000 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Economie publique</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www2.unine.ch/claude.jeanrenaud/page-1431.html> http://www2.unine.ch/claude.jeanrenaud/page-1431.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Regionalökonomie und -entwicklung (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/wisoz/gruppen/reo/index_DE> http://www.wsl.ch/fe/wisoz/gruppen/reo/index_DE</a></p></td></tr> 
+<tr><td class="cell-leftr">Umwelt- und Ressourcenökonomie (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/wisoz/gruppen/uro/index_DE> http://www.wsl.ch/fe/wisoz/gruppen/uro/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Regionalökonomie und -entwicklung (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/wisoz/gruppen/reo/index_DE> http://www.wsl.ch/fe/wisoz/gruppen/reo/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.68766180848,47.219267848</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Einsiedlerstrasse 31</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Institut für Facility Management (IFM)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ifm.zhaw.ch/de/science/ifm.html> http://www.ifm.zhaw.ch/de/science/ifm.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

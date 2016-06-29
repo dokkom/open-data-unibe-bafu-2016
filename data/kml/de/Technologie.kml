@@ -1,0 +1,406 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.90691084209,47.4792640348</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Tänikon 1</td></tr><tr><td></td><td>8356 Ettenhausen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Agrartechnische Systeme und Mechatronik (Tänikon)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05714/05790/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05714/05790/index.html?lang=de</a></p></td></tr> 
+<tr><td class="cell-leftr">Arbeit, Bau und Systemewertung (Tänikon)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05714/05788/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05714/05788/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.44943464694,46.949002711</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Akademien der Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Brunngasse 36</td></tr><tr><td></td><td>3011 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">TA-SWISS</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ta-swiss.ch/?uid=23> http://www.ta-swiss.ch/?uid=23</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.23787657935,47.1274516733</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Gwerdtstrasse 5</td></tr><tr><td></td><td>2560 Nidau</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Abgas- und Motorentechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ti.bfh.ch/de/forschung/institute_for_energy_and_mobility_research/forschungsgruppen/afhb.html> https://www.ti.bfh.ch/de/forschung/institute_for_energy_and_mobility_research/forschungsgruppen/afhb.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.24466275323,47.1423408707</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Quellgasse 21</td></tr><tr><td></td><td>2501 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Brennstoffzellen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.forschung.ti.bfh.ch/de/institute/institute_for_energy_and_mobility_research/forschungsgruppen/brennstoffzellen.html> http://www.forschung.ti.bfh.ch/de/institute/institute_for_energy_and_mobility_research/forschungsgruppen/brennstoffzellen.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Elektrochemische Energiespeichersysteme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iem.bfh.ch/index.php?id=6618> http://www.iem.bfh.ch/index.php?id=6618</a></p></td></tr> 
+<tr><td class="cell-leftr">greenCarb</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.forschung.ti.bfh.ch/de/institute/institute_for_energy_and_mobility_research/forschungsgruppen/greencarb.html> http://www.forschung.ti.bfh.ch/de/institute/institute_for_energy_and_mobility_research/forschungsgruppen/greencarb.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Photovoltaik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ti.bfh.ch/de/forschung/institute_for_energy_and_mobility_research/forschungsgruppen/photovoltaik.html> https://www.ti.bfh.ch/de/forschung/institute_for_energy_and_mobility_research/forschungsgruppen/photovoltaik.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Stromnetze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.forschung.ti.bfh.ch/de/institute/institute_for_energy_and_mobility_research/forschungsgruppen/stromnetze.html> http://www.forschung.ti.bfh.ch/de/institute/institute_for_energy_and_mobility_research/forschungsgruppen/stromnetze.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.5715173761,46.5182059983</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 5</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Chair of Corporate Strategy &amp; Innovation CSI</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://csi.epfl.ch/news> http://csi.epfl.ch/news</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Bâtiment LE, Station 18
+Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratoire d'Énergie Solaire et Physique du Bâtiment (LESO-PB)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://leso.epfl.ch> http://leso.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.57024878423,46.5201124964</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 6</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratoire de Biotechnologie Environnementale LBE</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lbe.epfl.ch> http://lbe.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56795654844,46.5208326499</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 2</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratoire de Technologie Écologique (ECOL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ecol.epfl.ch/page-5748-fr.html> http://ecol.epfl.ch/page-5748-fr.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56682184457,46.5200772734</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 9</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Engines, Fuel Cells and Other Reactive Systems</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://leni.epfl.ch/lenireactive> http://leni.epfl.ch/lenireactive</a></p></td></tr> 
+<tr><td class="cell-leftr">Group of Thermal Turbomachinery (GTT)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://gtt.epfl.ch> http://gtt.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Industrial Process and Energy System Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ipese.epfl.ch> http://ipese.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">IPESE Industrial Process and Energy Systems Engineering Group</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://sti.epfl.ch/genie-mecanique> http://sti.epfl.ch/genie-mecanique</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory for Production Management and Processes  LGPP</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lgpp.epfl.ch> http://lgpp.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratory of Renewable Energy Science and Engineering lrese</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lrese.epfl.ch> http://lrese.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.94603873574,46.9975989542</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Maladière 71B</td></tr><tr><td></td><td>2002 Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Integrated Actuators Laboratory (LAI)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lai.epfl.ch/page650.html> http://lai.epfl.ch/page650.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Microsystems for Space Technologies Laboratory (LMTS) </td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lmts.epfl.ch> http://lmts.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Photovoltaics and Thin Film Electronics Laboratory (PV LAB)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://pvlab.epfl.ch> http://pvlab.epfl.ch</a></p></td></tr> 
+<tr><td class="cell-leftr">The Sensors, Actuators, and Microsystems Laboratory (SAMLAB)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://samlab.epfl.ch> http://samlab.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.5650460134,46.5210982006</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 17</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratoire d'optique (LO)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lo.epfl.ch/page25629.html> http://lo.epfl.ch/page25629.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Microsystems Laboratory 4 (LMIS4) (Renaud)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lmis4.epfl.ch> http://lmis4.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56466109732,46.5191070908</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 13</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Swiss Space Center (CTS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://space.epfl.ch> http://space.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56308120936,46.5192928503</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 12</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Laboratoire de Technologie des Composites et Polymères (LTC)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ltc.epfl.ch> http://ltc.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56471220344,46.5191704568</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 11</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Distributed Electrical Systems Laboratory (DESL)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://desl-pwrs.epfl.ch> http://desl-pwrs.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Groupe de Machine Eléctrique (GEM)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lme.epfl.ch> http://lme.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire d'Électronique Industrielle (LEI)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lei.epfl.ch> http://lei.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56323530247,46.5186283208</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 14</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Distributed Information Systems Laboratory (LSIR)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://lsir.epfl.ch> http://lsir.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50723594124,47.4075461295</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Wolfgang-Pauli-Strasse 10</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Chemische Reaktionstechnik und Trennverfahren</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.morbidelli-group.ethz.ch> http://www.morbidelli-group.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54510856448,47.3803124066</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Clausiusstrasse 59 (RZ)</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Technikgeschichte</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.tg.ethz.ch/forschung/index.html> http://www.tg.ethz.ch/forschung/index.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.55235499492,47.378524708</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Physikstrasse 3</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Power Electronic Systems Laboratory (PES)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pes.ee.ethz.ch> http://www.pes.ee.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54415673198,47.3816707922</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Weinbergstr. 56/58</td></tr><tr><td></td><td>8006 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Information Management</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.im.ethz.ch> http://www.im.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54769611059,47.3780118197</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sonneggstrasse 3</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Aerothermochemie und Verbrennungssysteme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.lav.ethz.ch> http://www.lav.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Eneuerbare Energieträger</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.pre.ethz.ch> http://www.pre.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Thermodynamik in Neuen Technologien</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ltnt.ethz.ch> http://www.ltnt.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratorium für Trennprozesse</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ipe.ethz.ch/laboratories/spl/research/index> http://www.ipe.ethz.ch/laboratories/spl/research/index</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54759474622,47.3763216984</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rämistrasse 101</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Energie Umwandlung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.lec.ethz.ch> http://www.lec.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Innovative und multifunktionale Beläge (EMPave)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s301/innovative-and-multifunctionalavements-empave> https://www.empa.ch/web/s301/innovative-and-multifunctionalavements-empave</a></p></td></tr> 
+<tr><td class="cell-leftr">Urban Microclimate</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s305/urban-microclimate?inheritRedirect=true> https://www.empa.ch/web/s305/urban-microclimate?inheritRedirect=true</a></p></td></tr> 
+<tr><td class="cell-leftr">Building Energy Materials and Components</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://empa.ch/web/empa/building-energy-materials-and-components> https://empa.ch/web/empa/building-energy-materials-and-components</a></p></td></tr> 
+<tr><td class="cell-leftr">Decentralized energy systems (DES)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://empa.ch/web/s313/decentralized-energy-systems> https://empa.ch/web/s313/decentralized-energy-systems</a></p></td></tr> 
+<tr><td class="cell-leftr">Energy systems technologies</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s313/energy-systems-technologies> https://www.empa.ch/web/s313/energy-systems-technologies</a></p></td></tr> 
+<tr><td class="cell-leftr">Sustainable Buildings</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s313/sustainable-building-demonstrators> https://www.empa.ch/web/s313/sustainable-building-demonstrators</a></p></td></tr> 
+<tr><td class="cell-leftr">Hydrogen &amp; Hybrides</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/empa/materials-for-renewable-energy-joint-empa-epfl-lab-> https://www.empa.ch/web/empa/materials-for-renewable-energy-joint-empa-epfl-lab-</a></p></td></tr> 
+<tr><td class="cell-leftr">Organic Optoelectronic Thin Film Devices</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s209/organic-optoelectronic-thin-film-devices> https://www.empa.ch/web/s209/organic-optoelectronic-thin-film-devices</a></p></td></tr> 
+<tr><td class="cell-leftr">Synthesis of Organic Colorants</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s209/synthesis-of-organic-colorants> https://www.empa.ch/web/s209/synthesis-of-organic-colorants</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratorium für dünne Schichten und Photovoltaik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.empa.ch/plugin/template/empa/1197/*/---/l=1> http://www.empa.ch/plugin/template/empa/1197/*/---/l=1</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.34069383873,47.4126877727</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lerchenfeldstrasse 5</td></tr><tr><td></td><td>9014 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Critical Materials and Resource Efficiency (CARE)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s506/care> https://www.empa.ch/web/s506/care</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.63671326037,47.5313953799</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Nordwestschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>St Jakobs-Strasse 84</td></tr><tr><td></td><td>4132 Muttenz</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Bau (Gebäude &amp; Energie)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/habg/iebau/afue/gruppe-bau/forschungsprojekte-gruppe-bau> http://www.fhnw.ch/habg/iebau/afue/gruppe-bau/forschungsprojekte-gruppe-bau</a></p></td></tr> 
+<tr><td class="cell-leftr">Gebäudetechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/habg/iebau/afue/gruppe-gebaeudetechnik> http://www.fhnw.ch/habg/iebau/afue/gruppe-gebaeudetechnik</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.63852888874,47.5339555055</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Nordwestschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Gründenstrasse 40</td></tr><tr><td></td><td>4132 Muttenz</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">(Bio)-Nanotechnology</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/lifesciences/icb/forschungsfelder-und-projekte/nanotechnologie2502instrumentelle-analytik-1> http://www.fhnw.ch/lifesciences/icb/forschungsfelder-und-projekte/nanotechnologie2502instrumentelle-analytik-1</a></p></td></tr> 
+<tr><td class="cell-leftr">Synthese / Nachhaltige Entwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/lifesciences/icb/forschungsfelder-und-projekte/organische-synthese2502chemical-engineering-1> http://www.fhnw.ch/lifesciences/icb/forschungsfelder-und-projekte/organische-synthese2502chemical-engineering-1</a></p></td></tr> 
+<tr><td class="cell-leftr">Umweltbiotechnologie und Mikrobiologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/umweltbiotechnologie-und-umwelttechnik> http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/umweltbiotechnologie-und-umwelttechnik</a></p></td></tr> 
+<tr><td class="cell-leftr">Umwelttechnik und Clean Technologies</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/umweltbiotechnologie-und-umwelttechnik> http://www.fhnw.ch/lifesciences/iec/forschungsfelder-und-projekte/umweltbiotechnologie-und-umwelttechnik</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.21306983028,47.4796252939</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Nordwestschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Klosterzelgstrasse 2</td></tr><tr><td></td><td>5210 Windisch</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Catalytic Process Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.psi.ch/cpe/catalytic-process-engineering> https://www.psi.ch/cpe/catalytic-process-engineering</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Institut für Solartechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.solarenergy.ch/Home.126.0.html> http://www.solarenergy.ch/Home.126.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geruch</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.umtec.ch/Geruch.10700.0.html?&L=1> http://www.umtec.ch/Geruch.10700.0.html?&L=1</a></p></td></tr> 
+<tr><td class="cell-leftr">Rohstoffe und Verfahrenstechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.umtec.ch/Rohstoffe-und-Verfahrenstechni.8751.0.html> http://www.umtec.ch/Rohstoffe-und-Verfahrenstechni.8751.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.47279485924,47.1530266179</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Werdenbergstrasse 4</td></tr><tr><td></td><td>9471 Buchs</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Institut für Energiesysteme IES</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://institute.ntb.ch/ies.html> http://institute.ntb.ch/ies.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15900186357,46.7934559845</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Bd de Pérolles 80</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Fragnière</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heia-fr.ch/fr/partenaire/rad/institut_ENERGY/presentation> http://www.heia-fr.ch/fr/partenaire/rad/institut_ENERGY/presentation</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.64733905511,46.7811989722</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Avenue des Sports 20</td></tr><tr><td></td><td>1401 Yverdon-Les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">IGT - LESBAT : Laboratoire d'énergétique solaire et physique du bâtiment</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.lesbat.ch/index.php?option=com_content&view=frontpage&Itemid=77> http://www.lesbat.ch/index.php?option=com_content&view=frontpage&Itemid=77</a></p></td></tr> 
+<tr><td class="cell-leftr">IGT - SiB : Laboratoire des Systèmes Industriels de Bioénergie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/igt> http://www.heig-vd.ch/rad/igt</a></p></td></tr> 
+<tr><td class="cell-leftr">IGT - SiT : Laboratory of Modelling and Thermic Simulation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/igt> http://www.heig-vd.ch/rad/igt</a></p></td></tr> 
+<tr><td class="cell-leftr">IGT - TiS : Laboratory of Industrial Thermics and Systems</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/igt> http://www.heig-vd.ch/rad/igt</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.65989693939,46.7794231153</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>rte de Cheseaux 1</td></tr><tr><td></td><td>1401 Yverdon-les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Génie de l'environnement</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/g2c> http://www.heig-vd.ch/rad/g2c</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.64692453017,46.7648415707</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue Galilée 15</td></tr><tr><td></td><td>1400 Yverdon-les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Institut de Micro &amp; Nano Techniques</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/mnt> http://www.heig-vd.ch/rad/mnt</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13555254913,46.2097263466</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Prairie 4</td></tr><tr><td></td><td>1202 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Bio-ingénierie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.bio-engineering.ch> http://www.bio-engineering.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.11214163924,46.2009610206</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Route du Pont-Butin 7</td></tr><tr><td></td><td>1213 Petit-Lancy
+Genève</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Mécanique des fluides appliquée aux domaines de l’énergie (cmefe)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.cmefe.ch> http://www.cmefe.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.30575499279,47.0138564264</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Hochschule Luzern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technikumstrasse 21</td></tr><tr><td></td><td>6048 Horw</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Envelopes and Solar Energy</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_architektur/t-envelopes_and_solar_energy.htm> http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_architektur/t-envelopes_and_solar_energy.htm</a></p></td></tr> 
+<tr><td class="cell-leftr">Integrale Intelligente &amp; Effiziente Energiesysteme</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_elektrotechnik/t-forschung_entwicklung_iiee.htm> http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_elektrotechnik/t-forschung_entwicklung_iiee.htm</a></p></td></tr> 
+<tr><td class="cell-leftr">Zentrum für Integrale Gebäudetechnik (ZIG)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_gebaeudetechnik/t-forschung_entwicklung_gebaeudetechnik_zig.htm> http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_gebaeudetechnik/t-forschung_entwicklung_gebaeudetechnik_zig.htm</a></p></td></tr> 
+<tr><td class="cell-leftr">Thermische Energiespeicher</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_maschinentechnik/t-forschung_entwicklung_thermische_energiesysteme_verfahrenstechnik/t-thermische-energiespeicher.htm> http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_maschinentechnik/t-forschung_entwicklung_thermische_energiesysteme_verfahrenstechnik/t-thermische-energiespeicher.htm</a></p></td></tr> 
+<tr><td class="cell-leftr">Thermische Energiesysteme und Verfahrenstechnik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_maschinentechnik/t-forschung_entwicklung_thermische_energiesysteme_verfahrenstechnik/t-maschinentechnik-cctevt.htm> http://www.hslu.ch/technik-architektur/t-forschung-entwicklung/t-forschung_entwicklung_maschinentechnik/t-forschung_entwicklung_thermische_energiesysteme_verfahrenstechnik/t-maschinentechnik-cctevt.htm</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.56550031463,47.3782983054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Meteoschweiz / Météosuisse</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin de l'Aérologie 1</td></tr><tr><td></td><td>1530 Payerne</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Entwicklung und Forschung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html> http://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.2211470157,47.5345084097</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Paul Scherrer Institut (PSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Paul Scherrer Institut</td></tr><tr><td></td><td>5234 Villigen, Brugg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Catalysis for Energy</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/ceg> http://www.psi.ch/ceg/</a></p></td></tr> 
+<tr><td class="cell-leftr">Catalytic Process Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/cpe> http://www.psi.ch/cpe/</a></p></td></tr> 
+<tr><td class="cell-leftr">Combustion Fundamentals</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://cfg.web.psi.ch/index.html> http://cfg.web.psi.ch/index.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Thermal Process Engineering</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://crl.web.psi.ch/ssi/research_groups.shtml> http://crl.web.psi.ch/ssi/research_groups.shtml</a></p></td></tr> 
+<tr><td class="cell-leftr">Technology Assessment / GaBE</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/ta> http://www.psi.ch/ta/</a></p></td></tr> 
+<tr><td class="cell-leftr">Solar Technology Laboratory (LST)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.psi.ch/lst/solar-technology-laboratory> http://www.psi.ch/lst/solar-technology-laboratory</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.96136411959,46.0264074646</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Trevano, Blocco C</td></tr><tr><td></td><td>6952 Canobbio</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Materiali e strutture</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/imc/settori-attivita/materiali-strutture.html> http://www.supsi.ch/imc/settori-attivita/materiali-strutture.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geotermia</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/isaac/energia_edifici/geotermia.html> http://www.supsi.ch/isaac/energia_edifici/geotermia.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.43863722222,46.9512430247</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Sidlerstrasse 5</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Microwave Physics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iapmw.unibe.ch> http://www.iapmw.unibe.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15772088086,46.7929580922</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin du Musée 6</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Applied Mineralogy</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/geoscience/geology/en/research/applied-mineralogy> http://www.unifr.ch/geoscience/geology/en/research/applied-mineralogy</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Umweltbiotechnologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/ueber-uns/person/burs> https://www.zhaw.ch/de/ueber-uns/person/burs/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.68766180848,47.219267848</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Einsiedlerstrasse 31</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Funktionelle Materialien und Nanotechnologie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/icbt/nanotechnologie-und-funktions-materialien> https://www.zhaw.ch/de/lsfm/institute-zentren/icbt/nanotechnologie-und-funktions-materialien/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.72933604403,47.4972925873</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technikumstrasse 9</td></tr><tr><td></td><td>8401 Winterthur</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Energieeffizienz</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/engineering/institute-zentren/iefe/energieeffizienz> https://www.zhaw.ch/de/engineering/institute-zentren/iefe/energieeffizienz/</a></p></td></tr> 
+<tr><td class="cell-leftr">Energiespeicher und -netze</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/engineering/institute-zentren/iefe/energiespeicher-und-netze> https://www.zhaw.ch/de/engineering/institute-zentren/iefe/energiespeicher-und-netze/</a></p></td></tr> 
+<tr><td class="cell-leftr">Sensors and actuators</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/engineering/institute-zentren/icp/sensoren-und-aktuatoren> https://www.zhaw.ch/de/engineering/institute-zentren/icp/sensoren-und-aktuatoren/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.71682505951,47.4947508042</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Technoparkstrasse 2</td></tr><tr><td></td><td>8401 Winthertur</td></tr> 
+<tr><tr><td class="cell-left"> Gruppename </td> </tr><tr><td class="cell-leftr">Future Energy Systems (FES) and Energy Regions</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.engineering.zhaw.ch/en/engineering/institutes-centres/institute-of-sustainable-development/research-development/sustainable-energy-systems/future-energy-systems.html> http://www.engineering.zhaw.ch/en/engineering/institutes-centres/institute-of-sustainable-development/research-development/sustainable-energy-systems/future-energy-systems.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

@@ -1,0 +1,125 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Bauphysik und Energie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Bauklebstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Oberflächenbehandlung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Materialemissionen und Extraktstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoff- und Holzchemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoffe, Möbel und Design</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Bauphysik und Energie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Oberflächenbehandlung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Materialemissionen und Extraktstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoff- und Holzchemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoffe, Möbel und Design</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Bauphysik und Energie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Bauklebstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Materialemissionen und Extraktstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoff- und Holzchemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoffe, Möbel und Design</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Bauphysik und Energie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Bauklebstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Oberflächenbehandlung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoff- und Holzchemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoffe, Möbel und Design</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Bauphysik und Energie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Bauklebstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Oberflächenbehandlung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Materialemissionen und Extraktstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoffe, Möbel und Design</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoffe-moebel-und-design.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.27670016779,47.1588869855</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Berner Fachhochschule</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Solothurnstrasse 102</td></tr><tr><td></td><td>2500 Biel</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Kompetenzbereich Bauphysik und Energie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-holzbau-tragwerke-und-architektur/bauphysik-und-energie.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Bauklebstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-bauklebstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Holz- und Oberflächenbehandlung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/holz-und-oberflaechenbehandlung.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Materialemissionen und Extraktstoffe</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html> https://www.ahb.bfh.ch/de/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/materialemissionen-und-extraktstoffe.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Kompetenzbereich Werkstoff- und Holzchemie</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html> https://www.ahb.bfh.ch/home/forschung/institut-fuer-werkstoffe-und-holztechnologie/werkstoff-und-holzchemie.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56683458699,46.5209050177</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 18</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Laboratory for Timber Constructions (IBOIS)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ibois.epfl.ch> http://ibois.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50602426678,47.4098960297</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schafmattstrasse 6</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Holzphysik</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ifb.ethz.ch/wood> http://www.ifb.ethz.ch/wood</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Bio-inspired Wood Materials</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s302/group-bio-inspired-wood-materials> https://www.empa.ch/web/s302/group-bio-inspired-wood-materials</a></p></td></tr> 
+<tr><td class="cell-leftr">Functional Cellulose Materials</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s302/publications> https://www.empa.ch/web/s302/publications</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.61098871507,47.4029604511</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Überlandstrasse 129</td></tr><tr><td></td><td>8600 Dübendorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Bio-inspired Wood Materials</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s302/group-bio-inspired-wood-materials> https://www.empa.ch/web/s302/group-bio-inspired-wood-materials</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.34079852425,47.4126500625</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">EMPA</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Lerchenfeldstrasse 5</td></tr><tr><td></td><td>9014 St. Gallen</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Bio-engineered Wood</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.empa.ch/web/s302/research-topics> https://www.empa.ch/web/s302/research-topics</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Group name </td> </tr><tr><td class="cell-leftr">Dendroökologie (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/landschaftsdynamik/dendroecology/index_DE> http://www.wsl.ch/fe/landschaftsdynamik/dendroecology/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>

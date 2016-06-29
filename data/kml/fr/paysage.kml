@@ -1,0 +1,282 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"> 
+<Document> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.51704694753,47.4288002029</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Agroscope</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Reckenholzstrase 191</td></tr><tr><td></td><td>8046 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Saatgutqualität</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.agroscope.admin.ch/forschung/05698/05700/07666/index.html?lang=de> http://www.agroscope.admin.ch/forschung/05698/05700/07666/index.html?lang=de</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56480478074,46.5215101702</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 16</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Communauté d'études pour l'aménagement du territoire (CEAT)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ceat.epfl.ch> http://ceat.epfl.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Laboratoire Chôros (Chôros)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://choros.epfl.ch> http://choros.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.56480478074,46.5215101702</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Station 16</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Communauté d'études pour l'aménagement du territoire (CEAT)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://ceat.epfl.ch> http://ceat.epfl.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50678742221,47.4083058569</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Wolfgang-Pauli-Str. 15</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Institut für Landschaftsarchitektur - Professur Girot</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.girot.arch.ethz.ch> http://www.girot.arch.ethz.ch/</a></p></td></tr> 
+<tr><td class="cell-leftr">Institut für Landschaftsarchitektur - Professur Vogt</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.vogt.arch.ethz.ch> http://www.vogt.arch.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50678742221,47.4083058569</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Wolfgang-Pauli-Str. 15</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Institut für Landschaftsarchitektur - Professur Girot</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.girot.arch.ethz.ch> http://www.girot.arch.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50672010264,47.4082525086</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Stefano-Franscini-Platz 5</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Planung von Landschaft und Urbanen Systemen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.irl.ethz.ch/plus/research/index> http://www.irl.ethz.ch/plus/research/index</a></p></td></tr> 
+<tr><td class="cell-leftr">Raumentwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.irl.ethz.ch/re/index> http://www.irl.ethz.ch/re/index</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.50672010264,47.4082525086</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Stefano-Franscini-Platz 5</td></tr><tr><td></td><td>8093 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Planung von Landschaft und Urbanen Systemen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.irl.ethz.ch/plus/research/index> http://www.irl.ethz.ch/plus/research/index</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.54842347492,47.3792371753</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Eidgenössische Technische Hochschule Zürich (ETHZ)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Schmelzbergstrasse 25</td></tr><tr><td></td><td>8092 Zürich</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Forstliches Ingenieurwesen</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.lue.ethz.ch> http://www.lue.ethz.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Freiraum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Freiraum.9002.0.html> http://www.ilf.hsr.ch/Freiraum.9002.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Garten- und Landschaftsbau</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Garten-und-Landschaftsbau.7690.0.html> http://www.ilf.hsr.ch/Garten-und-Landschaftsbau.7690.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landschaftsentwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Landschaftsentwicklung.7689.0.html> http://www.ilf.hsr.ch/Landschaftsentwicklung.7689.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Grundlagen und Methoden der Raumplanung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.irap.ch/Grundlagen-und-Methoden-der-Ra.3790.0.html> http://www.irap.ch/Grundlagen-und-Methoden-der-Ra.3790.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Freiraum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Freiraum.9002.0.html> http://www.ilf.hsr.ch/Freiraum.9002.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landschaftsentwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Landschaftsentwicklung.7689.0.html> http://www.ilf.hsr.ch/Landschaftsentwicklung.7689.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Grundlagen und Methoden der Raumplanung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.irap.ch/Grundlagen-und-Methoden-der-Ra.3790.0.html> http://www.irap.ch/Grundlagen-und-Methoden-der-Ra.3790.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Freiraum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Freiraum.9002.0.html> http://www.ilf.hsr.ch/Freiraum.9002.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Garten- und Landschaftsbau</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Garten-und-Landschaftsbau.7690.0.html> http://www.ilf.hsr.ch/Garten-und-Landschaftsbau.7690.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Grundlagen und Methoden der Raumplanung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.irap.ch/Grundlagen-und-Methoden-der-Ra.3790.0.html> http://www.irap.ch/Grundlagen-und-Methoden-der-Ra.3790.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.81640389898,47.2230175415</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Oberseestrasse 10</td></tr><tr><td></td><td>8640 Rapperswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Freiraum</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Freiraum.9002.0.html> http://www.ilf.hsr.ch/Freiraum.9002.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Garten- und Landschaftsbau</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Garten-und-Landschaftsbau.7690.0.html> http://www.ilf.hsr.ch/Garten-und-Landschaftsbau.7690.0.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Landschaftsentwicklung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.ilf.hsr.ch/Landschaftsentwicklung.7689.0.html> http://www.ilf.hsr.ch/Landschaftsentwicklung.7689.0.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>9.51257531919,46.8528986054</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Fachhochschule Ostschweiz</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Pulvermühlestrasse 80</td></tr><tr><td></td><td>7004 Chur</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Ortsbildentwicklung &amp; Siedlungsplanung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.htwchur.ch/ingenieurbauarchitektur/forschung-und-dienstleistung/forschung-und-entwicklung/architektonische-infrastrukturen/ortsbildentwicklung-siedlungsplanung.html> http://www.htwchur.ch/ingenieurbauarchitektur/forschung-und-dienstleistung/forschung-und-entwicklung/architektonische-infrastrukturen/ortsbildentwicklung-siedlungsplanung.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.65989693939,46.7794231153</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>rte de cheseaux 1</td></tr><tr><td></td><td>1400 Yverdon-Les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Mensuration officielle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/g2c> http://www.heig-vd.ch/rad/g2c</a></p></td></tr> 
+<tr><td class="cell-leftr">Topometrie &amp; Instrumentation</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/ecg/domaines-de-formation/topom%C3%A9trie-et-instrumentation> http://www.heig-vd.ch/ecg/domaines-de-formation/topom%C3%A9trie-et-instrumentation</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.65989693939,46.7794231153</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>rte de cheseaux 1</td></tr><tr><td></td><td>1400 Yverdon-Les-Bains</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Mensuration officielle</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.heig-vd.ch/rad/g2c> http://www.heig-vd.ch/rad/g2c</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.13555254913,46.2097263466</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Haute école spécialisée de Suisse occidentale</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Rue de la Prairie 4</td></tr><tr><td></td><td>1202 Genève</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Agglomérations et Paysages (AP)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://hepia.hesge.ch/fr/rad-et-prestations/institut-inpact/equipes/ap> http://hepia.hesge.ch/fr/rad-et-prestations/institut-inpact/equipes/ap/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.96136411959,46.0264074646</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Trevano, Blocco C</td></tr><tr><td></td><td>6952 Canobbio</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Geologia</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/ist/settori-attivita/geologia.html> http://www.supsi.ch/ist/settori-attivita/geologia.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geomatica</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/ist/settori-attivita/geomatica.html> http://www.supsi.ch/ist/settori-attivita/geomatica.html</a></p></td></tr> 
+<tr><td class="cell-leftr">World Habitat Research Centre</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.worldhabitat.supsi.ch> http://www.worldhabitat.supsi.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.96136411959,46.0264074646</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Trevano, Blocco C</td></tr><tr><td></td><td>6952 Canobbio</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Geologia</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/ist/settori-attivita/geologia.html> http://www.supsi.ch/ist/settori-attivita/geologia.html</a></p></td></tr> 
+<tr><td class="cell-leftr">World Habitat Research Centre</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.worldhabitat.supsi.ch> http://www.worldhabitat.supsi.ch/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.96136411959,46.0264074646</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Scuola universitaria professionale della Svizzera italiana (SUPSI)</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Via Trevano, Blocco C</td></tr><tr><td></td><td>6952 Canobbio</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Geologia</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/ist/settori-attivita/geologia.html> http://www.supsi.ch/ist/settori-attivita/geologia.html</a></p></td></tr> 
+<tr><td class="cell-leftr">Geomatica</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/ist/settori-attivita/geomatica.html> http://www.supsi.ch/ist/settori-attivita/geomatica.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.45172834261,46.9283674391</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Swisstopo</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Seftigenstrasse 264</td></tr><tr><td></td><td>3084 Wabern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Topografisches Landschaftsmodell TLM</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tg.html> http://www.swisstopo.admin.ch/internet/swisstopo/de/home/swisstopo/org/topography/tg.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.98486748559,45.8673436942</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Università della Svizzera italiana</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Largo Bernasconi 2</td></tr><tr><td></td><td>6850 Mendrisio</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">iCUP Institute for the Contemporary Urban Project</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.arc.usi.ch/it/ricerca-e-istituti/istituti/icup> http://www.arc.usi.ch/it/ricerca-e-istituti/istituti/icup</a></p></td></tr> 
+<tr><td class="cell-leftr">MACS-Lab Modelling and application of complex system laboratory</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.supsi.ch/dti/bachelor/ingegneria-meccanica/docenti.html> http://www.supsi.ch/dti/bachelor/ingegneria-meccanica/docenti.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.98486748559,45.8673436942</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Università della Svizzera italiana</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Largo Bernasconi 2</td></tr><tr><td></td><td>6850 Mendrisio</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">iCUP Institute for the Contemporary Urban Project</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.arc.usi.ch/it/ricerca-e-istituti/istituti/icup> http://www.arc.usi.ch/it/ricerca-e-istituti/istituti/icup</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.4352611562,46.952646226</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Universität Bern</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Hallerstrasse 12</td></tr><tr><td></td><td>3012 Bern</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Raumentwicklung und –planung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.geography.unibe.ch/content/forschungsgruppen/raumentwicklung_und_planung/urban__regional_planning/index_eng.html> http://www.geography.unibe.ch/content/forschungsgruppen/raumentwicklung_und_planung/urban__regional_planning/index_eng.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>7.15685259348,46.793693583</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Fribourg</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Chemin du Musée 4</td></tr><tr><td></td><td>1700 Fribourg</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Geomatics</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unifr.ch/geoscience/geographie/en/research/physical-geography/geomatics> http://www.unifr.ch/geoscience/geographie/en/research/physical-geography/geomatics</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Eau et géopatrimoine</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/home/menuinst/la-recherche/eau-et-geopatrimoine.html> http://www.unil.ch/igd/home/menuinst/la-recherche/eau-et-geopatrimoine.html</a></p></td></tr> 
+<tr><td class="cell-leftr">WASEAE - Water, Sediments and Ecology in Alpine Environments under climate and human forcing</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/Jahia/site/idyst/op/edit/pid/102269> http://www.unil.ch/Jahia/site/idyst/op/edit/pid/102269</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.58533373268,46.522178876</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Lausanne</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Géopolis</td></tr><tr><td></td><td>1015 Lausanne</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Eau et géopatrimoine</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.unil.ch/igd/home/menuinst/la-recherche/eau-et-geopatrimoine.html> http://www.unil.ch/igd/home/menuinst/la-recherche/eau-et-geopatrimoine.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>6.94231563854,46.9935799947</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Université de Neuchâtel</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Espace Louis-Agassiz 1</td></tr><tr><td></td><td>2000  Neuchâtel</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Géographies urbaines</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www3.unine.ch/members/ola.soderstrom> http://www3.unine.ch/members/ola.soderstrom</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.45465316866,47.3605894774</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">WSL</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Zürcherstrasse 111</td></tr><tr><td></td><td>8903 Birmensdorf</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Fernerkundung (Birmensdorf)</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.wsl.ch/fe/landschaftsdynamik/remote_sensing/index_DE> http://www.wsl.ch/fe/landschaftsdynamik/remote_sensing/index_DE</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.71608770653,47.4933377092</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Tössfeldstrasse 11</td></tr><tr><td></td><td>8411 Winterthur</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Zentrum Urban Landscape</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=http://www.iul.zhaw.ch/de.html> http://www.iul.zhaw.ch/de.html</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Forschungsgruppe Freiraummanagement</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/freiraummanagement> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/freiraummanagement/</a></p></td></tr> 
+<tr><td class="cell-leftr">Forschungsgruppe Umweltplanung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/umweltplanung> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/umweltplanung/</a></p></td></tr> 
+<tr><td class="cell-leftr">Landschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/landschaft-und-tourismus/landschaft> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/landschaft-und-tourismus/landschaft/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Forschungsgruppe Freiraummanagement</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/freiraummanagement> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/freiraummanagement/</a></p></td></tr> 
+<tr><td class="cell-leftr">Landschaft</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/landschaft-und-tourismus/landschaft> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/landschaft-und-tourismus/landschaft/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+<Placemark> 
+<Style><IconStyle> 
+<scale>0.25</scale><Icon><href>https://map.geo.admin.ch/1460548321/img/maki/circle-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon><hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/></IconStyle></Style><Point><coordinates>8.6799911842,47.2187300586</coordinates></Point><description><![CDATA[ 
+<table><tr><td class="cell-left">Institution </td><td class="cell-leftr">Zürcher Hochschule für Angewandte Wissenschaften</td><tr>
+<tr><td><span class="icon icon--message" aria-hidden="true" style="padding-left: 15px;"></td><td>Grüental</td></tr><tr><td></td><td>8820 Wädenswil</td></tr> 
+<tr><tr><td class="cell-left"> Nom de groupe </td> </tr><tr><td class="cell-leftr">Forschungsgruppe Freiraummanagement</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/freiraummanagement> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/urbane-gruenraeume/freiraummanagement/</a></p></td></tr> 
+<tr><td class="cell-leftr">Forschungsgruppe Umweltplanung</td><td class="cell-leftr"><p><span class="icon icon--external" aria-hidden="true"></span><a href=https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/umweltplanung> https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/umweltplanung/</a></p></td></tr> 
+</table> ]]></description>
+</Placemark> 
+</Document></kml>
